@@ -1,0 +1,1794 @@
+{
+  "common_configuration": {
+    "problem_type": "binary",
+    "label_column": "FRAUDE",
+    "input_data_schema": {
+      "type": "struct",
+      "fields": [
+        {
+          "name": "AGE",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "SEXE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "NB_POLICE",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "FORMATION",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "STATUT_MARITAL",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "LOISIR",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "EMPLOI",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "V_MARQUE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "V_MODELE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "V_ANNEE",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "S_HEURE",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "NB_VEH_IMPLIQUE",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "NB_BLESSE",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "NB_TEMOIN",
+          "type": "long",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature"
+          }
+        },
+        {
+          "name": "TYPE_SINISTRE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "TYPE_COLLISION",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "SEV_SINISTRE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "AUTORITE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "DOMMAGE_MATERIEL",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "PROCES_VERB",
+          "type": "string",
+          "nullable": true,
+          "metadata": {
+            "modeling_role": "feature",
+            "measure": "discrete"
+          }
+        },
+        {
+          "name": "FRAUDE",
+          "type": "string",
+          "nullable": true,
+          "metadata": {}
+        }
+      ]
+    },
+    "feature_fields": [
+      "AGE",
+      "SEXE",
+      "STATUT_MARITAL",
+      "EMPLOI",
+      "FORMATION",
+      "LOISIR",
+      "NB_POLICE",
+      "V_MARQUE",
+      "V_MODELE",
+      "V_ANNEE",
+      "S_HEURE",
+      "NB_VEH_IMPLIQUE",
+      "NB_BLESSE",
+      "NB_TEMOIN",
+      "TYPE_SINISTRE",
+      "TYPE_COLLISION",
+      "SEV_SINISTRE",
+      "AUTORITE",
+      "DOMMAGE_MATERIEL",
+      "PROCES_VERB"
+    ],
+    "categorical_fields": [
+      "SEXE",
+      "STATUT_MARITAL",
+      "EMPLOI",
+      "FORMATION",
+      "LOISIR",
+      "V_MARQUE",
+      "V_MODELE",
+      "TYPE_SINISTRE",
+      "TYPE_COLLISION",
+      "SEV_SINISTRE",
+      "AUTORITE",
+      "DOMMAGE_MATERIEL",
+      "PROCES_VERB"
+    ]
+  },
+  "explainability_configuration": {
+    "feature_columns": [
+      "AGE",
+      "SEXE",
+      "STATUT_MARITAL",
+      "EMPLOI",
+      "FORMATION",
+      "LOISIR",
+      "NB_POLICE",
+      "V_MARQUE",
+      "V_MODELE",
+      "V_ANNEE",
+      "S_HEURE",
+      "NB_VEH_IMPLIQUE",
+      "NB_BLESSE",
+      "NB_TEMOIN",
+      "TYPE_SINISTRE",
+      "TYPE_COLLISION",
+      "SEV_SINISTRE",
+      "AUTORITE",
+      "DOMMAGE_MATERIEL",
+      "PROCES_VERB"
+    ],
+    "categorical_columns": [
+      "SEXE",
+      "STATUT_MARITAL",
+      "EMPLOI",
+      "FORMATION",
+      "LOISIR",
+      "V_MARQUE",
+      "V_MODELE",
+      "TYPE_SINISTRE",
+      "TYPE_COLLISION",
+      "SEV_SINISTRE",
+      "AUTORITE",
+      "DOMMAGE_MATERIEL",
+      "PROCES_VERB"
+    ],
+    "feature_values": {
+      "0": [
+        0,
+        1,
+        3,
+        2
+      ],
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        2,
+        1,
+        0
+      ],
+      "3": [
+        6,
+        12,
+        0,
+        1,
+        13,
+        2,
+        8,
+        11,
+        4,
+        7,
+        3,
+        5,
+        10,
+        9
+      ],
+      "4": [
+        0,
+        1,
+        5,
+        4,
+        3,
+        2
+      ],
+      "5": [
+        3,
+        10,
+        7,
+        16,
+        14,
+        4,
+        9,
+        15,
+        11,
+        6,
+        2,
+        17,
+        1,
+        5,
+        0,
+        13,
+        12,
+        8
+      ],
+      "6": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "7": [
+        13,
+        14,
+        1,
+        12,
+        10,
+        8,
+        9,
+        4,
+        5,
+        0,
+        2,
+        7,
+        6,
+        11,
+        3
+      ],
+      "8": [
+        12,
+        31,
+        8,
+        19,
+        14,
+        36,
+        0,
+        30,
+        20,
+        17,
+        24,
+        26,
+        25,
+        27,
+        28,
+        29,
+        7,
+        9,
+        21,
+        2,
+        4,
+        16,
+        3,
+        1,
+        5,
+        6,
+        34,
+        23,
+        11,
+        10,
+        33,
+        15,
+        38,
+        37,
+        35,
+        32,
+        13,
+        18,
+        22
+      ],
+      "9": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "10": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "11": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "12": [
+        0,
+        1,
+        2
+      ],
+      "13": [
+        0,
+        1,
+        2
+      ],
+      "14": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "15": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "16": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "17": [
+        3,
+        0,
+        1,
+        2,
+        4
+      ],
+      "18": [
+        2,
+        1,
+        0
+      ],
+      "19": [
+        1,
+        0
+      ]
+    },
+    "feature_frequencies": {
+      "0": [
+        25966,
+        24658,
+        24801,
+        24575
+      ],
+      "1": [
+        49901,
+        50099
+      ],
+      "2": [
+        33392,
+        33375,
+        33233
+      ],
+      "3": [
+        7025,
+        7204,
+        7230,
+        7096,
+        7053,
+        7241,
+        7172,
+        7089,
+        7144,
+        7137,
+        7228,
+        7007,
+        7197,
+        7177
+      ],
+      "4": [
+        16436,
+        16786,
+        16526,
+        16792,
+        16715,
+        16745
+      ],
+      "5": [
+        5461,
+        5529,
+        5543,
+        5554,
+        5610,
+        5690,
+        5587,
+        5643,
+        5557,
+        5511,
+        5528,
+        5543,
+        5589,
+        5493,
+        5597,
+        5622,
+        5412,
+        5531
+      ],
+      "6": [
+        21963,
+        33174,
+        22304,
+        22559
+      ],
+      "7": [
+        7753,
+        5132,
+        5091,
+        7634,
+        5250,
+        7720,
+        5154,
+        5232,
+        7530,
+        7589,
+        10273,
+        7726,
+        7586,
+        7644,
+        2686
+      ],
+      "8": [
+        2626,
+        2548,
+        2615,
+        2523,
+        2656,
+        2572,
+        2508,
+        2688,
+        2536,
+        2507,
+        2555,
+        2581,
+        2557,
+        2512,
+        2559,
+        2594,
+        2476,
+        2574,
+        2551,
+        2646,
+        2586,
+        2633,
+        2544,
+        2617,
+        2571,
+        2487,
+        2479,
+        2584,
+        2484,
+        2581,
+        2529,
+        2576,
+        2598,
+        2501,
+        2686,
+        2589,
+        2528,
+        2487,
+        2556
+      ],
+      "9": [
+        20863,
+        25026,
+        25019,
+        29092
+      ],
+      "10": [
+        21939,
+        26228,
+        25755,
+        26078
+      ],
+      "11": [
+        42995,
+        16569,
+        29116,
+        11320
+      ],
+      "12": [
+        53222,
+        29490,
+        17288
+      ],
+      "13": [
+        53094,
+        29510,
+        17396
+      ],
+      "14": [
+        24883,
+        25075,
+        24889,
+        25153
+      ],
+      "15": [
+        16586,
+        49964,
+        16636,
+        16814
+      ],
+      "16": [
+        25124,
+        24916,
+        24812,
+        25148
+      ],
+      "17": [
+        19984,
+        19758,
+        19989,
+        20176,
+        20093
+      ],
+      "18": [
+        33659,
+        33065,
+        33276
+      ],
+      "19": [
+        49923,
+        50077
+      ]
+    },
+    "class_labels": [
+      "N",
+      "O"
+    ],
+    "categorical_columns_encoding_mapping": {
+      "1": [
+        "F",
+        "M"
+      ],
+      "2": [
+        "C\u00e9libataire",
+        "Divorc\u00e9",
+        "Mari\u00e9"
+      ],
+      "3": [
+        "agriculteur",
+        "artisant",
+        "cadre",
+        "chauffeur",
+        "commercant",
+        "contrema\u00eetre",
+        "employ\u00e9",
+        "ing\u00e9nieur",
+        "ouvrier",
+        "prof-m\u00e9dicale",
+        "professeur",
+        "sans-emploi",
+        "s\u00e9curit\u00e9",
+        "technicien"
+      ],
+      "4": [
+        "3\u00e8me cycle",
+        "Aucun",
+        "Baccalaur\u00e9at",
+        "Primaire",
+        "Professionel",
+        "Secondaire"
+      ],
+      "5": [
+        "basketball",
+        "camping",
+        "chasse",
+        "cin\u00e9ma",
+        "cross-fit",
+        "danse",
+        "exercise",
+        "golf",
+        "jeu-\u00e9checs",
+        "jeux-plateau",
+        "jeux-vid\u00e9o",
+        "kayak",
+        "lecture",
+        "marche",
+        "musique",
+        "parachutisme",
+        "saut-\u00e9lastique",
+        "\u00e9quitation"
+      ],
+      "7": [
+        "Accura",
+        "Audi",
+        "BMW",
+        "Chevrolet",
+        "Fiat",
+        "Ford",
+        "Honda",
+        "Mercedes",
+        "Nissan",
+        "Peugeot",
+        "Renault",
+        "Saab",
+        "Suburu",
+        "Toyota",
+        "Volkswagen"
+      ],
+      "8": [
+        "208",
+        "3 Series",
+        "308",
+        "500",
+        "92x",
+        "93",
+        "95",
+        "A3",
+        "A5",
+        "Accord",
+        "C300",
+        "CRV",
+        "Camry",
+        "Civic",
+        "Clio",
+        "Corolla",
+        "E400",
+        "Escape",
+        "F150",
+        "Forrestor",
+        "Fusion",
+        "Highlander",
+        "Impreza",
+        "Jetta",
+        "Legacy",
+        "M5",
+        "MDX",
+        "ML350",
+        "Maxima",
+        "Megane",
+        "Panda",
+        "Passat",
+        "Pathfinder",
+        "RSX",
+        "TL",
+        "Tahoe",
+        "Ultima",
+        "X5",
+        "X6"
+      ],
+      "14": [
+        "Collision isol\u00e9e",
+        "Collision multiple",
+        "Stationnement",
+        "Vol"
+      ],
+      "15": [
+        "?",
+        "Collision arri\u00e8re",
+        "Collision cot\u00e9",
+        "Collision frontale"
+      ],
+      "16": [
+        "Bris",
+        "Dommage majeur",
+        "Dommage mineur",
+        "Perte totale"
+      ],
+      "17": [
+        "Aucun",
+        "Autre",
+        "Police",
+        "Pompier",
+        "SAMU-SMUR"
+      ],
+      "18": [
+        "?",
+        "NON",
+        "OUI"
+      ],
+      "19": [
+        "N",
+        "O"
+      ]
+    },
+    "d_means": {
+      "0": [
+        9.555611183855811,
+        28.953159218103657,
+        47.99743641912513,
+        66.97661384621588
+      ],
+      "6": [
+        1.0022608066558147,
+        3.502286585365854,
+        5.498515005097744,
+        7.5013431680553655
+      ],
+      "9": [
+        2.512946535602973,
+        8.98456620376736,
+        15.510452056437108,
+        21.00287590471169
+      ],
+      "10": [
+        2.4935961346729045,
+        8.4990099009901,
+        14.49527222815312,
+        20.00893386207211
+      ],
+      "11": [
+        0.0,
+        1.0,
+        2.0,
+        3.4332155477031803
+      ],
+      "12": [
+        0.0,
+        1.0,
+        2.3705460434983805
+      ],
+      "13": [
+        0.0,
+        1.0,
+        2.370257530466774
+      ]
+    },
+    "d_stds": {
+      "0": [
+        5.787639640189719,
+        5.46605188499796,
+        5.4728511058438585,
+        5.463118977865267
+      ],
+      "6": [
+        0.8147009137274068,
+        0.4999947715100376,
+        0.49999779479526146,
+        0.4999981959062641
+      ],
+      "9": [
+        1.707284627501126,
+        2.0053557314366244,
+        1.7112612530137543,
+        1.4108852211083072
+      ],
+      "10": [
+        1.706899765254907,
+        1.7052766186407433,
+        1.70124981819884,
+        1.4124115136719426
+      ],
+      "11": [
+        1e-11,
+        1e-11,
+        1e-11,
+        0.7146566890720953
+      ],
+      "12": [
+        1e-11,
+        1e-11,
+        0.6487574910060269
+      ],
+      "13": [
+        1e-11,
+        1e-11,
+        0.6508114063934376
+      ]
+    },
+    "d_maxs": {
+      "0": [
+        19.0,
+        38.0,
+        57.0,
+        76
+      ],
+      "6": [
+        2.0,
+        4.0,
+        6.0,
+        8
+      ],
+      "9": [
+        5.0,
+        12.0,
+        18.0,
+        23
+      ],
+      "10": [
+        5.0,
+        11.0,
+        17.0,
+        22
+      ],
+      "11": [
+        0.0,
+        1.0,
+        2.0,
+        9
+      ],
+      "12": [
+        0.0,
+        1.0,
+        7
+      ],
+      "13": [
+        0.0,
+        1.0,
+        7
+      ]
+    },
+    "d_mins": {
+      "0": [
+        0,
+        19.0,
+        38.0,
+        57.0
+      ],
+      "6": [
+        0,
+        2.0,
+        4.0,
+        6.0
+      ],
+      "9": [
+        0,
+        5.0,
+        12.0,
+        18.0
+      ],
+      "10": [
+        0,
+        5.0,
+        11.0,
+        17.0
+      ],
+      "11": [
+        0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "12": [
+        0,
+        0.0,
+        1.0
+      ],
+      "13": [
+        0,
+        0.0,
+        1.0
+      ]
+    },
+    "d_bins": {
+      "0": [
+        19.0,
+        38.0,
+        57.0
+      ],
+      "6": [
+        2.0,
+        4.0,
+        6.0
+      ],
+      "9": [
+        5.0,
+        12.0,
+        18.0
+      ],
+      "10": [
+        5.0,
+        11.0,
+        17.0
+      ],
+      "11": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "12": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "13": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    "base_values": {
+      "1": "M",
+      "2": "Mari\u00e9",
+      "3": "cadre",
+      "4": "Professionel",
+      "5": "cross-fit",
+      "7": "BMW",
+      "8": "Panda",
+      "14": "Collision multiple",
+      "15": "?",
+      "16": "Perte totale",
+      "17": "Police",
+      "18": "OUI",
+      "19": "N",
+      "0": 38.0,
+      "6": 4.0,
+      "9": 12.0,
+      "10": 11.0,
+      "11": 1.0,
+      "12": 0.0,
+      "13": 0.0
+    },
+    "stds": {
+      "0": 22.223806740556398,
+      "6": 2.573473826387205,
+      "9": 6.925685113770334,
+      "10": 6.64796304078174,
+      "11": 1.1504499152940122,
+      "12": 0.9178941777786805,
+      "13": 0.9195938207165162
+    },
+    "mins": {
+      "0": 0,
+      "6": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0
+    },
+    "maxs": {
+      "0": 76,
+      "6": 8,
+      "9": 23,
+      "10": 22,
+      "11": 9,
+      "12": 7,
+      "13": 7
+    },
+    "categorical_counts": {
+      "1": {
+        "F": 49901,
+        "M": 50099
+      },
+      "2": {
+        "Mari\u00e9": 33392,
+        "Divorc\u00e9": 33375,
+        "C\u00e9libataire": 33233
+      },
+      "3": {
+        "employ\u00e9": 7025,
+        "s\u00e9curit\u00e9": 7204,
+        "agriculteur": 7230,
+        "artisant": 7096,
+        "technicien": 7053,
+        "cadre": 7241,
+        "ouvrier": 7172,
+        "sans-emploi": 7089,
+        "commercant": 7144,
+        "ing\u00e9nieur": 7137,
+        "chauffeur": 7228,
+        "contrema\u00eetre": 7007,
+        "professeur": 7197,
+        "prof-m\u00e9dicale": 7177
+      },
+      "4": {
+        "3\u00e8me cycle": 16436,
+        "Aucun": 16786,
+        "Secondaire": 16526,
+        "Professionel": 16792,
+        "Primaire": 16715,
+        "Baccalaur\u00e9at": 16745
+      },
+      "5": {
+        "cin\u00e9ma": 5461,
+        "jeux-vid\u00e9o": 5529,
+        "golf": 5543,
+        "saut-\u00e9lastique": 5554,
+        "musique": 5610,
+        "cross-fit": 5690,
+        "jeux-plateau": 5587,
+        "parachutisme": 5643,
+        "kayak": 5557,
+        "exercise": 5511,
+        "chasse": 5528,
+        "\u00e9quitation": 5543,
+        "camping": 5589,
+        "danse": 5493,
+        "basketball": 5597,
+        "marche": 5622,
+        "lecture": 5412,
+        "jeu-\u00e9checs": 5531
+      },
+      "7": {
+        "Toyota": 7753,
+        "Volkswagen": 5132,
+        "Audi": 5091,
+        "Suburu": 7634,
+        "Renault": 5250,
+        "Nissan": 7720,
+        "Peugeot": 5154,
+        "Fiat": 5232,
+        "Ford": 7530,
+        "Accura": 7589,
+        "BMW": 10273,
+        "Mercedes": 7726,
+        "Honda": 7586,
+        "Saab": 7644,
+        "Chevrolet": 2686
+      },
+      "8": {
+        "Camry": 2626,
+        "Passat": 2548,
+        "A5": 2615,
+        "Forrestor": 2523,
+        "Clio": 2656,
+        "Ultima": 2572,
+        "208": 2508,
+        "Panda": 2688,
+        "Fusion": 2536,
+        "Escape": 2507,
+        "Legacy": 2555,
+        "MDX": 2581,
+        "M5": 2557,
+        "ML350": 2512,
+        "Maxima": 2559,
+        "Megane": 2594,
+        "A3": 2476,
+        "Accord": 2574,
+        "Highlander": 2551,
+        "308": 2646,
+        "92x": 2586,
+        "E400": 2633,
+        "500": 2544,
+        "3 Series": 2617,
+        "93": 2571,
+        "95": 2487,
+        "TL": 2479,
+        "Jetta": 2584,
+        "CRV": 2484,
+        "C300": 2581,
+        "RSX": 2529,
+        "Corolla": 2576,
+        "X6": 2598,
+        "X5": 2501,
+        "Tahoe": 2686,
+        "Pathfinder": 2589,
+        "Civic": 2528,
+        "F150": 2487,
+        "Impreza": 2556
+      },
+      "14": {
+        "Collision isol\u00e9e": 24883,
+        "Stationnement": 25075,
+        "Vol": 24889,
+        "Collision multiple": 25153
+      },
+      "15": {
+        "Collision frontale": 16586,
+        "?": 49964,
+        "Collision arri\u00e8re": 16636,
+        "Collision cot\u00e9": 16814
+      },
+      "16": {
+        "Dommage majeur": 25124,
+        "Dommage mineur": 24916,
+        "Bris": 24812,
+        "Perte totale": 25148
+      },
+      "17": {
+        "Pompier": 19984,
+        "Aucun": 19758,
+        "Autre": 19989,
+        "Police": 20176,
+        "SAMU-SMUR": 20093
+      },
+      "18": {
+        "OUI": 33659,
+        "NON": 33065,
+        "?": 33276
+      },
+      "19": {
+        "O": 49923,
+        "N": 50077
+      }
+    }
+  },
+  "fairness_configuration": {
+    "parameters": {
+      "features": [
+        {
+          "feature": "AGE",
+          "type": "int",
+          "majority": [
+            [
+              26,
+              65
+            ]
+          ],
+          "minority": [
+            [
+              0,
+              25
+            ],
+            [
+              66,
+              120
+            ]
+          ],
+          "threshold": 0.8
+        },
+        {
+          "feature": "SEXE",
+          "type": "string",
+          "majority": [
+            "H"
+          ],
+          "minority": [
+            "F",
+            "I"
+          ],
+          "threshold": 0.8
+        }
+      ],
+      "favourable_class": [
+        "N"
+      ],
+      "unfavourable_class": [
+        "O"
+      ],
+      "min_records": 1000,
+      "training_data_distributions": {
+        "fields": [
+          "feature",
+          "feature_value",
+          "label",
+          "count",
+          "is_favourable",
+          "group"
+        ],
+        "values": [
+          [
+            "AGE",
+            [
+              26,
+              65
+            ],
+            "N",
+            44618,
+            true,
+            "reference"
+          ],
+          [
+            "AGE",
+            [
+              26,
+              65
+            ],
+            "O",
+            7163,
+            false,
+            "reference"
+          ],
+          [
+            "AGE",
+            [
+              0,
+              25
+            ],
+            "N",
+            29100,
+            true,
+            "monitored"
+          ],
+          [
+            "AGE",
+            [
+              0,
+              25
+            ],
+            "O",
+            4798,
+            false,
+            "monitored"
+          ],
+          [
+            "AGE",
+            [
+              66,
+              120
+            ],
+            "N",
+            12358,
+            true,
+            "monitored"
+          ],
+          [
+            "AGE",
+            [
+              66,
+              120
+            ],
+            "O",
+            1963,
+            false,
+            "monitored"
+          ],
+          [
+            "SEXE",
+            "F",
+            "N",
+            41070,
+            true,
+            "monitored"
+          ],
+          [
+            "SEXE",
+            "F",
+            "O",
+            8831,
+            false,
+            "monitored"
+          ]
+        ]
+      },
+      "training_data_records_count": 100000,
+      "training_data_class_label": "FRAUDE",
+      "training_data_last_processed_time": "2022-04-30 09:46:06.805783"
+    },
+    "distributions": [
+      {
+        "attribute": "AGE",
+        "min": 0.0,
+        "max": 76.0,
+        "class_labels": [
+          {
+            "label": "[0, 3]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 4402
+              },
+              {
+                "class_value": "O",
+                "count": 745
+              }
+            ]
+          },
+          {
+            "label": "[12, 15]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3347
+              },
+              {
+                "class_value": "O",
+                "count": 505
+              }
+            ]
+          },
+          {
+            "label": "[15, 18]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3361
+              },
+              {
+                "class_value": "O",
+                "count": 573
+              }
+            ]
+          },
+          {
+            "label": "[18, 21]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3461
+              },
+              {
+                "class_value": "O",
+                "count": 577
+              }
+            ]
+          },
+          {
+            "label": "[21, 24]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3372
+              },
+              {
+                "class_value": "O",
+                "count": 571
+              }
+            ]
+          },
+          {
+            "label": "[24, 25]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 1169
+              },
+              {
+                "class_value": "O",
+                "count": 176
+              }
+            ]
+          },
+          {
+            "label": "[25, 26]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 1063
+              },
+              {
+                "class_value": "O",
+                "count": 169
+              }
+            ]
+          },
+          {
+            "label": "[26, 27]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 1087
+              },
+              {
+                "class_value": "O",
+                "count": 175
+              }
+            ]
+          },
+          {
+            "label": "[27, 30]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3333
+              },
+              {
+                "class_value": "O",
+                "count": 523
+              }
+            ]
+          },
+          {
+            "label": "[3, 6]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3364
+              },
+              {
+                "class_value": "O",
+                "count": 557
+              }
+            ]
+          },
+          {
+            "label": "[30, 33]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3444
+              },
+              {
+                "class_value": "O",
+                "count": 552
+              }
+            ]
+          },
+          {
+            "label": "[33, 36]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3318
+              },
+              {
+                "class_value": "O",
+                "count": 566
+              }
+            ]
+          },
+          {
+            "label": "[36, 39]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3238
+              },
+              {
+                "class_value": "O",
+                "count": 528
+              }
+            ]
+          },
+          {
+            "label": "[39, 42]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3338
+              },
+              {
+                "class_value": "O",
+                "count": 546
+              }
+            ]
+          },
+          {
+            "label": "[42, 45]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3396
+              },
+              {
+                "class_value": "O",
+                "count": 520
+              }
+            ]
+          },
+          {
+            "label": "[45, 48]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3439
+              },
+              {
+                "class_value": "O",
+                "count": 513
+              }
+            ]
+          },
+          {
+            "label": "[48, 51]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3261
+              },
+              {
+                "class_value": "O",
+                "count": 524
+              }
+            ]
+          },
+          {
+            "label": "[51, 54]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3323
+              },
+              {
+                "class_value": "O",
+                "count": 544
+              }
+            ]
+          },
+          {
+            "label": "[54, 57]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3342
+              },
+              {
+                "class_value": "O",
+                "count": 559
+              }
+            ]
+          },
+          {
+            "label": "[57, 60]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3319
+              },
+              {
+                "class_value": "O",
+                "count": 559
+              }
+            ]
+          },
+          {
+            "label": "[6, 9]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3267
+              },
+              {
+                "class_value": "O",
+                "count": 546
+              }
+            ]
+          },
+          {
+            "label": "[60, 63]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3448
+              },
+              {
+                "class_value": "O",
+                "count": 535
+              }
+            ]
+          },
+          {
+            "label": "[63, 65]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 2269
+              },
+              {
+                "class_value": "O",
+                "count": 350
+              }
+            ]
+          },
+          {
+            "label": "[65, 66]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 1193
+              },
+              {
+                "class_value": "O",
+                "count": 189
+              }
+            ]
+          },
+          {
+            "label": "[66, 69]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3318
+              },
+              {
+                "class_value": "O",
+                "count": 522
+              }
+            ]
+          },
+          {
+            "label": "[69, 72]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3390
+              },
+              {
+                "class_value": "O",
+                "count": 539
+              }
+            ]
+          },
+          {
+            "label": "[72, 75]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3357
+              },
+              {
+                "class_value": "O",
+                "count": 525
+              }
+            ]
+          },
+          {
+            "label": "[75, 76]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 1100
+              },
+              {
+                "class_value": "O",
+                "count": 188
+              }
+            ]
+          },
+          {
+            "label": "[9, 12]",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 3357
+              },
+              {
+                "class_value": "O",
+                "count": 548
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "attribute": "SEXE",
+        "distinct_values": [
+          "F",
+          "M"
+        ],
+        "class_labels": [
+          {
+            "label": "F",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 41070
+              },
+              {
+                "class_value": "O",
+                "count": 8831
+              }
+            ]
+          },
+          {
+            "label": "M",
+            "counts": [
+              {
+                "class_value": "N",
+                "count": 45006
+              },
+              {
+                "class_value": "O",
+                "count": 5093
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "attribute": "FRAUDE",
+        "is_class_label": true,
+        "distinct_values": [
+          "N",
+          "O"
+        ]
+      }
+    ],
+    "thresholds": [
+      {
+        "metric_id": "fairness_value",
+        "type": "lower_limit",
+        "value": 80,
+        "specific_values": [
+          {
+            "value": 80.0,
+            "applies_to": [
+              {
+                "type": "tag",
+                "key": "feature",
+                "value": "AGE"
+              }
+            ]
+          },
+          {
+            "value": 80.0,
+            "applies_to": [
+              {
+                "type": "tag",
+                "key": "feature",
+                "value": "SEXE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "notebook_version": 1.0
+}
