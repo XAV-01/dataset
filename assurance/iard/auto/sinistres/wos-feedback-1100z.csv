@@ -1,0 +1,1101 @@
+AGE,SEXE,NB_POLICE,FORMATION,STATUT_MARITAL,LOISIR,EMPLOI,V_MARQUE,V_ANNEE,S_HEURE,NB_VEH_IMPLIQUE,NB_BLESSE,NB_TEMOIN,TYPE_SINISTRE,TYPE_COLLISION,SEV_SINISTRE,AUTORITE,DOMMAGE_MATERIEL,PROCES_VERB,FRAUDE
+43,F,6,Professionel,Divorcé,saut-élastique,commercant,Fiat,2020,8,2,1,2,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,O
+91,M,2,Baccalauréat,Célibataire,basketball,ingénieur,Chevrolet,2015,5,2,1,3,Vol,Collision frontale,Bris,Pompier,OUI,O,N
+92,F,9,Professionel,Divorcé,golf,agriculteur,Chevrolet,2020,2,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,O
+45,M,5,Baccalauréat,Célibataire,jeu-échecs,artisant,Chevrolet,2015,22,2,0,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,N,N
+70,M,2,3ème cycle,Veuve,danse,artisant,Chevrolet,2021,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+95,M,7,Aucun,Célibataire,jeux-vidéo,commercant,Chevrolet,2016,16,2,0,2,Vol,?,Bris,Autre,?,N,O
+25,M,4,Primaire,Veuve,camping,agriculteur,BMW,2022,13,1,0,3,Vol,Collision frontale,Dommage mineur,Autre,?,O,N
+50,M,1,Aucun,Marié,cross-fit,sans-emploi,BMW,2017,10,1,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,N,N
+98,M,6,Secondaire,Marié,marche,artisant,Renault,2020,21,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+28,F,3,Professionel,Divorcé,kayak,commercant,Renault,2015,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,Police,NON,N,O
+53,F,9,Secondaire,Concubinage,exercise,agriculteur,Renault,2020,14,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,O,N
+77,F,6,Professionel,Divorcé,saut-élastique,agriculteur,Chevrolet,1999,11,3,1,0,Collision isolée,Collision coté,Dommage majeur,Police,NON,N,N
+102,F,3,3ème cycle,Concubinage,chasse,sans-emploi,Suburu,1999,8,3,1,3,Vol,?,Bris,Police,OUI,N,O
+75,M,8,Baccalauréat,Célibataire,jeux-vidéo,chauffeur,Ford,2015,12,1,0,3,Vol,Collision frontale,Bris,Police,?,O,N
+69,M,4,Primaire,Veuve,camping,agriculteur,Suburu,2005,19,2,0,1,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+64,M,1,Aucun,Célibataire,cross-fit,sans-emploi,Suburu,2019,16,1,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+88,M,8,Primaire,Célibataire,musique,agriculteur,Saab,2015,6,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,N,N
+90,M,4,Primaire,Veuve,camping,professeur,Chevrolet,2005,13,2,0,3,Vol,Collision frontale,Dommage mineur,Autre,?,O,N
+85,M,1,Aucun,Marié,équitation,ouvrier,BMW,2020,3,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,O,N
+109,M,7,Primaire,Veuf,musique,ouvrier,BMW,2015,0,1,2,3,Vol,?,Bris,Autre,NON,N,O
+111,M,4,Primaire,Veuve,camping,technicien,Audi,1999,15,3,0,1,Collision multiple,Collision coté,Dommage majeur,Aucun,?,O,N
+105,M,1,Aucun,Marié,équitation,cadre,Nissan,2020,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,N
+100,M,7,Professionel,Célibataire,jeux-vidéo,employé,Nissan,2017,12,3,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+30,F,4,Secondaire,Veuf,jeux-plateau,artisant,Mercedes,1999,9,3,2,3,Vol,Collision frontale,Bris,Autre,NON,O,N
+55,F,1,Professionel,Divorcé,golf,sécurité,Mercedes,2017,6,3,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,NON,N,O
+79,F,6,Secondaire,Concubinage,cinéma,technicien,Mercedes,2022,9,3,1,3,Collision multiple,Collision arrière,Perte totale,Autre,NON,O,N
+104,F,3,Professionel,Divorcé,basketball,technicien,Accura,2016,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,NON,N,O
+88,M,8,Baccalauréat,Célibataire,golf,technicien,Accura,2019,17,2,0,3,Vol,Collision frontale,Bris,Police,OUI,O,N
+89,F,6,Baccalauréat,Divorcé,saut-élastique,artisant,Accura,2016,7,3,1,2,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+84,M,2,3ème cycle,Veuve,chasse,employé,Accura,2022,4,2,1,2,Stationnement,Collision arrière,Bris,SAMU-SMUR,?,N,N
+109,M,8,Baccalauréat,Célibataire,jeux-vidéo,artisant,Honda,2019,10,2,0,1,Collision multiple,Collision coté,Perte totale,Aucun,OUI,O,N
+38,M,5,3ème cycle,Veuve,camping,commercant,Honda,2009,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+33,M,2,Aucun,Concubinage,cross-fit,employé,Honda,2022,22,1,0,0,Stationnement,Collision arrière,Perte totale,Police,?,N,N
+34,M,8,Baccalauréat,Célibataire,jeux-vidéo,chauffeur,Suburu,2019,4,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,N,O
+29,M,4,Primaire,Veuve,camping,agriculteur,Suburu,2016,19,2,0,1,Collision multiple,Collision coté,Dommage majeur,Aucun,?,O,N
+54,M,1,Aucun,Célibataire,cross-fit,sans-emploi,Saab,2022,16,1,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+55,M,8,Baccalauréat,Célibataire,jeux-vidéo,prof-médicale,Saab,2018,6,1,0,1,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+50,M,4,Primaire,Veuve,camping,professeur,Saab,2005,13,1,2,2,Vol,Collision frontale,Dommage mineur,Autre,?,O,N
+98,M,1,Aucun,Célibataire,cross-fit,sécurité,Saab,2019,0,1,2,2,Collision isolée,?,Bris,Police,NON,N,N
+28,F,7,Secondaire,Veuve,marche,technicien,Renault,2009,21,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+29,M,4,Aucun,Marié,jeux-plateau,cadre,BMW,2022,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+78,F,9,Secondaire,Concubinage,exercise,professeur,Renault,2009,14,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,N,N
+79,M,6,Secondaire,Marié,marche,technicien,Renault,2020,21,1,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+104,M,3,Professionel,Veuf,kayak,contremaître,Peugeot,2017,18,3,2,0,Stationnement,Collision arrière,Perte totale,Aucun,NON,N,N
+98,F,9,Secondaire,Concubinage,exercise,sécurité,Audi,2009,8,3,1,3,Vol,?,Bris,Aucun,NON,N,O
+28,F,6,Baccalauréat,Divorcé,saut-élastique,technicien,Audi,2020,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+76,F,3,Secondaire,Concubinage,chasse,employé,Peugeot,1999,16,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,N
+78,F,8,Baccalauréat,Divorcé,golf,ingénieur,Accura,2021,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,Police,OUI,O,N
+72,M,6,3ème cycle,Divorcé,camping,contremaître,Accura,2017,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,N
+74,F,2,3ème cycle,Concubinage,chasse,commercant,Mercedes,2015,20,2,1,2,Collision isolée,?,Bris,Aucun,OUI,N,N
+99,M,8,Baccalauréat,Célibataire,golf,agriculteur,Volkswagen,2018,17,2,1,3,Vol,Collision frontale,Bris,Aucun,OUI,O,N
+29,M,5,3ème cycle,Veuve,camping,sans-emploi,Volkswagen,2009,14,2,0,0,Stationnement,Collision arrière,Dommage mineur,Aucun,OUI,N,N
+23,M,1,Aucun,Célibataire,cross-fit,commercant,Honda,1999,4,2,0,2,Vol,?,Bris,Police,?,N,O
+78,M,8,3ème cycle,Veuve,parachutisme,chauffeur,Volkswagen,2015,15,1,0,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+73,M,4,Aucun,Marié,jeu-échecs,sans-emploi,Ford,2005,22,1,0,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+67,M,2,Primaire,Célibataire,lecture,prof-médicale,Ford,2020,12,1,2,3,Vol,?,Bris,Police,NON,N,O
+92,M,7,Secondaire,Veuve,marche,agriculteur,Ford,2015,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,O
+94,M,4,Aucun,Marié,jeu-échecs,prof-médicale,Saab,1999,16,1,2,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+88,M,1,Professionel,Veuf,lecture,ouvrier,Saab,2020,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+90,M,7,Primaire,Veuf,parachutisme,technicien,Renault,2017,13,1,2,3,Vol,Collision frontale,Bris,Autre,?,O,N
+43,M,3,Professionel,Veuf,kayak,prof-médicale,Renault,2021,0,3,2,2,Collision isolée,?,Bris,Police,NON,N,N
+26,F,9,Professionel,Divorcé,golf,professeur,Fiat,2022,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,O
+51,F,5,3ème cycle,Concubinage,cinéma,prof-médicale,Fiat,2017,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,N,N
+46,M,3,Baccalauréat,Concubinage,jeux-plateau,ingénieur,Fiat,1999,5,2,0,3,Vol,Collision frontale,Bris,Pompier,OUI,O,N
+71,M,9,3ème cycle,Divorcé,parachutisme,employé,Chevrolet,2019,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,O,N
+72,F,5,3ème cycle,Concubinage,cinéma,contremaître,Renault,2017,8,3,1,2,Collision isolée,?,Bris,SAMU-SMUR,OUI,N,N
+67,M,2,Baccalauréat,Célibataire,cross-fit,technicien,Peugeot,2005,22,2,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,OUI,O,N
+68,F,8,Baccalauréat,Divorcé,golf,artisant,Peugeot,2021,5,3,1,3,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+21,M,5,Aucun,Célibataire,jeu-échecs,contremaître,Peugeot,2022,16,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,O
+76,M,2,3ème cycle,Veuve,danse,artisant,BMW,2017,3,1,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+71,M,7,Aucun,Célibataire,jeux-vidéo,employé,Nissan,2015,10,1,0,0,Stationnement,Collision arrière,Perte totale,Pompier,?,N,N
+65,M,5,Primaire,Célibataire,jeu-échecs,sans-emploi,Nissan,2022,0,1,2,3,Vol,?,Bris,Pompier,?,N,N
+90,M,2,Secondaire,Veuve,équitation,chauffeur,Nissan,2017,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,O
+92,M,7,Aucun,Marié,jeux-vidéo,sans-emploi,Volkswagen,2015,4,1,0,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,N,N
+86,M,4,Primaire,Veuf,kayak,commercant,Volkswagen,2022,18,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+111,M,9,Secondaire,Marié,équitation,agriculteur,Volkswagen,2017,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+18,M,7,Aucun,Marié,jeux-vidéo,prof-médicale,Toyota,2005,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,N,N
+107,M,3,Professionel,Veuf,kayak,ouvrier,Ford,2022,12,1,2,3,Vol,?,Bris,SAMU-SMUR,NON,N,N
+102,F,1,Primaire,Veuf,danse,technicien,Ford,2017,3,3,2,3,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,O,N
+32,F,7,Professionel,Marié,saut-élastique,contremaître,Fiat,2005,23,3,1,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,NON,N,N
+33,M,3,Professionel,Veuf,kayak,sécurité,Saab,2019,6,1,2,0,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+81,F,9,Baccalauréat,Divorcé,golf,professeur,Fiat,2009,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+41,F,6,Secondaire,Concubinage,cinéma,sécurité,Suburu,2018,20,3,1,3,Vol,?,Bris,SAMU-SMUR,OUI,N,O
+66,F,2,Baccalauréat,Divorcé,basketball,technicien,Suburu,1999,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+91,F,8,3ème cycle,Concubinage,exercise,contremaître,Suburu,2018,14,3,1,0,Stationnement,Collision arrière,Perte totale,Pompier,OUI,N,N
+86,M,5,Baccalauréat,Célibataire,jeu-échecs,technicien,Chevrolet,2015,4,2,0,3,Vol,Collision frontale,Bris,Pompier,OUI,N,N
+110,M,2,3ème cycle,Veuve,danse,technicien,Chevrolet,2021,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,N
+105,M,8,Aucun,Concubinage,exercise,commercant,BMW,2018,16,1,0,2,Collision isolée,?,Bris,Autre,?,N,N
+106,M,5,Baccalauréat,Célibataire,jeu-échecs,employé,Peugeot,2015,22,2,0,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+101,M,1,Primaire,Veuve,danse,ingénieur,Nissan,1999,13,1,0,3,Vol,Collision frontale,Dommage mineur,Pompier,?,O,N
+31,M,7,Aucun,Marié,jeux-vidéo,employé,Nissan,2018,10,1,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,N,N
+32,M,5,Baccalauréat,Célibataire,jeu-échecs,sans-emploi,Nissan,2009,16,2,0,3,Vol,?,Bris,Police,?,N,N
+27,M,1,Primaire,Veuve,danse,agriculteur,Volkswagen,1999,7,1,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,O,N
+28,M,8,3ème cycle,Veuve,parachutisme,professeur,Volkswagen,2017,21,1,2,2,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,N,N
+46,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,Mercedes,2021,18,3,2,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,O,N
+101,M,1,Aucun,Marié,équitation,chauffeur,Volkswagen,2018,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,N
+96,F,7,Professionel,Célibataire,musique,sans-emploi,Toyota,2015,12,3,2,2,Collision isolée,?,Bris,Pompier,NON,N,N
+26,F,3,Secondaire,Concubinage,jeux-plateau,chauffeur,Toyota,2020,9,3,1,3,Vol,Collision frontale,Bris,Pompier,NON,O,N
+51,F,9,Professionel,Divorcé,golf,ouvrier,Toyota,2015,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,Pompier,NON,O,O
+75,F,6,Secondaire,Concubinage,cinéma,ouvrier,Honda,2018,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,N,N
+100,F,2,Baccalauréat,Divorcé,basketball,professeur,Toyota,2016,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+30,F,9,3ème cycle,Concubinage,exercise,sécurité,Honda,2019,10,3,1,1,Collision multiple,Collision arrière,Perte totale,Aucun,OUI,N,N
+55,M,5,Baccalauréat,Divorcé,saut-élastique,cadre,Suburu,2017,17,2,1,3,Vol,Collision frontale,Dommage mineur,Autre,OUI,O,N
+49,M,3,3ème cycle,Divorcé,basketball,ingénieur,Suburu,2005,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+51,F,8,3ème cycle,Concubinage,exercise,contremaître,Suburu,2019,14,2,0,3,Stationnement,Collision arrière,Perte totale,Pompier,?,N,N
+76,M,5,Baccalauréat,Célibataire,saut-élastique,ingénieur,Chevrolet,2016,11,2,0,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,O,N
+70,M,2,Primaire,Veuve,danse,technicien,Chevrolet,2005,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,N
+72,M,8,3ème cycle,Veuve,exercise,commercant,BMW,2021,8,2,1,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,OUI,N,N
+66,M,5,Baccalauréat,Célibataire,jeu-échecs,employé,BMW,2015,4,2,0,3,Collision multiple,Collision arrière,Perte totale,Autre,OUI,O,N
+91,M,1,Primaire,Veuve,danse,artisant,Peugeot,2005,19,2,0,1,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+86,M,8,3ème cycle,Veuve,exercise,ouvrier,Nissan,2020,10,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,N,O
+87,M,4,Aucun,Célibataire,jeu-échecs,sans-emploi,Accura,2018,16,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,N
+82,M,2,Primaire,Veuf,danse,agriculteur,Volkswagen,2009,7,1,2,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,O,N
+107,M,7,Aucun,Marié,marche,sans-emploi,Volkswagen,2020,3,1,2,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,O,N
+108,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,Volkswagen,2017,10,2,0,0,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+103,M,1,Primaire,Veuf,lecture,professeur,Ford,2009,0,1,2,3,Vol,Collision frontale,Bris,Police,?,O,N
+32,M,7,Aucun,Marié,marche,professeur,Ford,2020,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Police,?,O,N
+27,M,4,Aucun,Célibataire,jeu-échecs,contremaître,Fiat,1999,12,3,2,2,Collision isolée,?,Bris,SAMU-SMUR,NON,N,N
+82,M,9,Secondaire,Divorcé,équitation,cadre,Toyota,2016,12,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+35,F,7,3ème cycle,Veuf,cinéma,contremaître,Toyota,2005,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,N,N
+90,F,3,Professionel,Divorcé,basketball,cadre,Toyota,2017,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+20,F,8,3ème cycle,Concubinage,exercise,sécurité,Toyota,1999,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Autre,OUI,N,N
+110,M,5,Baccalauréat,Célibataire,saut-élastique,cadre,Suburu,2019,17,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,O,N
+93,M,1,Aucun,Célibataire,cross-fit,prof-médicale,Honda,2021,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+23,M,7,Primaire,Veuve,parachutisme,cadre,Honda,2016,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Police,?,O,N
+25,M,5,3ème cycle,Veuve,camping,employé,Ford,1999,21,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,O,N
+19,M,1,Aucun,Célibataire,cross-fit,contremaître,Suburu,2021,4,2,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+109,M,8,Primaire,Célibataire,jeux-vidéo,agriculteur,Saab,2017,18,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+38,M,5,Aucun,Veuve,jeux-plateau,agriculteur,Saab,2021,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+63,M,2,Professionel,Veuf,lecture,contremaître,Saab,2018,12,1,2,3,Vol,?,Bris,Aucun,NON,N,O
+65,M,7,Primaire,Veuf,parachutisme,agriculteur,Renault,2016,19,1,2,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+90,M,4,Aucun,Marié,jeux-plateau,sans-emploi,Renault,2020,15,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,N,N
+84,M,9,Professionel,Veuf,lecture,commercant,BMW,2018,6,1,2,0,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+86,M,7,Primaire,Veuf,musique,professeur,Audi,2009,21,3,2,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+39,F,3,Professionel,Divorcé,kayak,sans-emploi,Audi,2019,0,3,2,2,Collision isolée,?,Dommage majeur,Aucun,NON,N,N
+33,F,1,Secondaire,Veuf,lecture,prof-médicale,Audi,2005,21,3,1,3,Collision multiple,Collision arrière,Perte totale,Aucun,NON,O,N
+58,F,6,Baccalauréat,Marié,saut-élastique,cadre,Audi,2021,11,3,1,1,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+60,F,3,Professionel,Divorcé,kayak,prof-médicale,Mercedes,2018,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,NON,N,O
+85,F,9,Secondaire,Concubinage,exercise,cadre,Audi,2020,11,3,1,1,Collision multiple,Collision coté,Dommage majeur,Police,OUI,O,N
+38,M,5,3ème cycle,Veuve,camping,ouvrier,Nissan,2015,2,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+62,M,2,Baccalauréat,Célibataire,cross-fit,professeur,Accura,2022,22,2,0,1,Collision multiple,Collision coté,Perte totale,Police,OUI,N,N
+64,F,8,Baccalauréat,Divorcé,golf,technicien,Accura,2019,13,2,1,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+59,M,5,3ème cycle,Veuve,camping,sécurité,Honda,2016,19,2,0,2,Collision isolée,?,Dommage majeur,Aucun,OUI,O,N
+83,M,2,Baccalauréat,Célibataire,cross-fit,sécurité,Honda,2022,16,2,0,3,Vol,?,Bris,Aucun,?,N,O
+78,M,8,Primaire,Divorcé,parachutisme,artisant,Ford,2019,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Police,?,O,N
+79,M,5,3ème cycle,Veuve,camping,ingénieur,Suburu,2016,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,N
+74,M,1,Aucun,Célibataire,cross-fit,contremaître,Saab,2005,4,1,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+99,M,7,Primaire,Veuve,parachutisme,ingénieur,Ford,2016,7,2,0,1,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+29,M,4,Aucun,Marié,jeux-plateau,employé,Saab,2005,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,N
+30,M,1,Aucun,Célibataire,cross-fit,sans-emploi,Saab,2021,12,1,0,2,Vol,?,Bris,Police,?,N,O
+48,M,7,Primaire,Veuve,parachutisme,chauffeur,Renault,2016,9,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+49,M,4,Aucun,Marié,jeux-plateau,sans-emploi,BMW,2005,15,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,O,N
+44,M,1,Professionel,Célibataire,lecture,commercant,BMW,2021,6,1,2,0,Stationnement,Collision arrière,Perte totale,Aucun,NON,N,N
+99,M,6,Secondaire,Marié,marche,chauffeur,BMW,2009,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Aucun,NON,O,N
+29,M,3,Professionel,Veuf,kayak,ouvrier,Renault,2020,6,3,2,0,Stationnement,Collision arrière,Perte totale,Aucun,NON,N,N
+24,F,9,Secondaire,Concubinage,équitation,professeur,Peugeot,2009,3,3,2,1,Collision multiple,Collision coté,Perte totale,Aucun,NON,O,N
+79,F,6,Professionel,Divorcé,saut-élastique,prof-médicale,Peugeot,2019,0,3,1,2,Collision isolée,?,Dommage majeur,Aucun,NON,N,N
+103,F,3,Secondaire,Concubinage,chasse,cadre,Peugeot,2009,4,3,1,3,Vol,Collision frontale,Bris,SAMU-SMUR,NON,N,O
+57,M,8,3ème cycle,Veuve,parachutisme,ouvrier,Peugeot,2018,7,2,0,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,OUI,N,N
+51,M,5,3ème cycle,Concubinage,cinéma,sécurité,Peugeot,2015,22,2,0,0,Collision multiple,Collision arrière,Perte totale,Pompier,?,N,N
+53,M,2,Baccalauréat,Célibataire,cross-fit,cadre,Accura,1999,5,2,0,3,Vol,Collision frontale,Bris,Police,OUI,O,N
+47,M,8,Primaire,Veuve,parachutisme,professeur,Accura,2020,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+72,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,Accura,2015,16,2,0,2,Collision isolée,?,Bris,SAMU-SMUR,?,N,N
+74,M,2,Baccalauréat,Célibataire,cross-fit,ingénieur,Volkswagen,2021,22,2,0,1,Collision multiple,Collision coté,Perte totale,Aucun,OUI,N,N
+98,M,8,3ème cycle,Veuve,parachutisme,ingénieur,Volkswagen,2017,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+93,M,4,Aucun,Célibataire,jeu-échecs,employé,Volkswagen,1999,0,2,0,3,Vol,?,Bris,Pompier,?,N,N
+23,M,1,Primaire,Veuf,danse,ingénieur,Ford,2021,7,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+17,M,8,Secondaire,Veuve,parachutisme,agriculteur,Ford,2017,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,O
+42,M,4,Professionel,Célibataire,kayak,sans-emploi,Ford,1999,18,1,2,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+67,M,1,Secondaire,Marié,équitation,ingénieur,Fiat,2018,15,3,2,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+68,M,7,Aucun,Marié,marche,sans-emploi,Fiat,2015,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+63,M,3,Professionel,Veuf,kayak,commercant,Saab,1999,12,3,2,2,Collision isolée,?,Bris,Police,NON,N,N
+64,M,1,Primaire,Veuf,lecture,professeur,Renault,2019,18,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,N,N
+89,M,7,Aucun,Marié,marche,professeur,Renault,2009,23,3,2,2,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+84,F,3,Professionel,Veuf,kayak,ouvrier,Audi,1999,6,3,2,0,Stationnement,Collision arrière,Perte totale,Aucun,NON,N,N
+78,F,1,Secondaire,Veuf,exercise,sécurité,Audi,2019,20,3,1,3,Vol,?,Bris,Aucun,OUI,N,O
+103,F,7,Baccalauréat,Marié,saut-élastique,chauffeur,Audi,2009,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,N
+105,F,2,Professionel,Concubinage,chasse,ouvrier,Audi,2020,14,3,1,0,Stationnement,Collision arrière,Perte totale,Police,OUI,N,N
+35,F,9,Secondaire,Concubinage,exercise,technicien,Accura,2017,20,3,1,3,Vol,Collision frontale,Bris,Autre,NON,O,N
+29,F,5,Baccalauréat,Divorcé,saut-élastique,cadre,Mercedes,2009,11,3,1,1,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+31,F,3,Professionel,Divorcé,basketball,employé,Honda,2021,2,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,N,O
+55,F,9,Secondaire,Concubinage,exercise,artisant,Honda,2015,5,2,0,3,Collision multiple,Collision frontale,Bris,Aucun,OUI,O,N
+73,M,6,Professionel,Divorcé,saut-élastique,artisant,Honda,2022,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+75,M,2,3ème cycle,Veuve,chasse,employé,Suburu,2020,2,2,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,OUI,N,N
+69,M,9,Baccalauréat,Célibataire,jeux-vidéo,contremaître,Suburu,2016,16,2,0,3,Vol,?,Bris,Autre,?,N,O
+94,M,4,Primaire,Veuve,camping,ingénieur,Suburu,2020,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+24,M,1,Aucun,Célibataire,cross-fit,employé,Suburu,2017,10,1,0,0,Stationnement,Collision arrière,Perte totale,Aucun,?,N,N
+26,M,8,Baccalauréat,Célibataire,jeux-vidéo,chauffeur,Saab,2005,16,2,0,3,Vol,Collision frontale,Bris,Pompier,OUI,N,N
+20,M,4,Primaire,Veuve,camping,agriculteur,Chevrolet,2022,7,2,0,1,Collision multiple,Collision coté,Dommage majeur,Autre,?,O,N
+45,M,1,Aucun,Célibataire,cross-fit,sans-emploi,BMW,2017,4,1,0,2,Collision isolée,?,Bris,Autre,?,N,N
+39,M,8,Primaire,Célibataire,jeux-vidéo,prof-médicale,BMW,2005,18,1,2,1,Collision multiple,Collision arrière,Perte totale,Autre,?,N,N
+41,M,4,Primaire,Veuve,camping,professeur,Nissan,2022,1,1,0,3,Vol,Collision frontale,Dommage mineur,Pompier,?,O,N
+35,M,1,Aucun,Marié,équitation,ouvrier,Nissan,2017,15,1,2,2,Collision isolée,?,Dommage majeur,Pompier,?,O,N
+91,M,7,Primaire,Veuf,musique,cadre,Nissan,2022,18,1,2,1,Collision multiple,Collision coté,Perte totale,Pompier,?,O,N
+85,M,3,Secondaire,Marié,jeux-plateau,professeur,Nissan,2019,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Autre,NON,O,N
+87,M,1,Aucun,Marié,équitation,contremaître,Mercedes,2015,16,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,N,N
+81,M,6,Professionel,Veuf,musique,sécurité,Volkswagen,2005,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,N,N
+106,M,3,Secondaire,Marié,jeux-plateau,technicien,Volkswagen,2019,3,1,2,1,Collision multiple,Collision coté,Dommage majeur,Pompier,NON,O,N
+101,F,1,Professionel,Marié,golf,commercant,Mercedes,2022,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Pompier,NON,O,N
+61,F,6,Secondaire,Concubinage,marche,ingénieur,Toyota,2019,21,3,1,3,Vol,Collision frontale,Bris,Pompier,NON,O,N
+55,F,3,Baccalauréat,Divorcé,basketball,employé,Toyota,2009,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Pompier,NON,O,O
+110,F,9,Secondaire,Concubinage,exercise,employé,Toyota,2020,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,N,N
+105,M,5,Baccalauréat,Divorcé,saut-élastique,ingénieur,Suburu,2017,5,2,1,3,Vol,Collision frontale,Dommage mineur,Autre,OUI,O,N
+106,F,3,Professionel,Divorcé,basketball,agriculteur,Suburu,2005,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+36,F,9,3ème cycle,Concubinage,exercise,sans-emploi,Suburu,2019,16,2,1,3,Vol,?,Bris,Aucun,OUI,N,N
+31,M,5,Baccalauréat,Célibataire,saut-élastique,agriculteur,Chevrolet,2017,23,2,0,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,O,N
+25,M,3,Primaire,Divorcé,danse,professeur,Chevrolet,2005,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,N
+27,M,8,3ème cycle,Veuve,exercise,ouvrier,Peugeot,2022,20,2,1,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,OUI,N,N
+52,M,5,Baccalauréat,Célibataire,jeu-échecs,professeur,Peugeot,2016,17,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+46,M,1,Primaire,Veuve,danse,chauffeur,Peugeot,2005,7,2,0,1,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+48,M,8,3ème cycle,Veuve,exercise,sécurité,Nissan,2020,14,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+42,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,Accura,2018,4,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,N
+67,M,1,Primaire,Veuve,danse,cadre,Accura,2005,1,2,0,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,?,O,N
+62,M,8,Aucun,Veuve,parachutisme,employé,Volkswagen,2020,15,1,2,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,N,N
+63,M,4,Aucun,Célibataire,jeu-échecs,contremaître,Honda,2018,22,2,0,0,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+88,M,1,Primaire,Veuve,danse,ingénieur,Ford,2005,19,1,0,1,Collision multiple,Collision coté,Dommage majeur,Police,?,O,N
+18,M,7,Aucun,Marié,jeux-vidéo,employé,Ford,2016,16,1,2,2,Collision isolée,?,Dommage majeur,Police,?,N,N
+66,F,3,Secondaire,Marié,jeux-plateau,technicien,Mercedes,2020,9,1,2,0,Collision multiple,Collision coté,Dommage mineur,Pompier,NON,O,N
+91,F,9,Professionel,Divorcé,lecture,contremaître,Toyota,2016,0,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+92,M,7,Professionel,Veuf,musique,commercant,Toyota,2005,14,1,2,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,N,N
+45,F,3,Professionel,Divorcé,basketball,ingénieur,Toyota,2017,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+94,F,9,Secondaire,Concubinage,exercise,agriculteur,Honda,2019,11,2,1,1,Vol,Collision coté,Perte totale,Aucun,OUI,O,N
+23,M,6,3ème cycle,Divorcé,saut-élastique,agriculteur,Honda,2015,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+25,M,2,3ème cycle,Concubinage,chasse,commercant,Suburu,2005,8,2,1,2,Collision isolée,?,Bris,Autre,OUI,N,N
+50,M,8,Baccalauréat,Célibataire,golf,agriculteur,Suburu,2018,5,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,O,N
+44,M,5,Primaire,Veuve,camping,artisant,Suburu,2015,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+46,M,2,3ème cycle,Veuve,chasse,ouvrier,Saab,1999,2,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
+29,M,7,Primaire,Veuve,parachutisme,chauffeur,Ford,2022,9,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,O,N
+54,M,4,Aucun,Célibataire,jeu-échecs,ouvrier,Ford,2019,0,2,0,2,Collision isolée,?,Bris,SAMU-SMUR,?,N,N
+49,M,1,Primaire,Veuf,lecture,chauffeur,Saab,2016,6,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+43,M,7,Secondaire,Veuve,parachutisme,cadre,Saab,2022,21,1,2,2,Stationnement,Collision frontale,Dommage mineur,Police,?,O,O
+68,M,4,Professionel,Veuf,kayak,ouvrier,Saab,2017,0,1,2,3,Vol,?,Bris,Police,NON,N,O
+93,F,1,Secondaire,Concubinage,équitation,chauffeur,Renault,2009,15,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,O,N
+53,F,5,Baccalauréat,Divorcé,saut-élastique,chauffeur,Toyota,2020,11,3,1,1,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+60,M,2,3ème cycle,Veuve,danse,sans-emploi,Suburu,2015,2,2,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,OUI,N,N
+84,M,8,Baccalauréat,Célibataire,jeux-vidéo,chauffeur,Suburu,2022,22,2,0,1,Collision multiple,Collision coté,Perte totale,Autre,OUI,N,O
+86,F,5,Baccalauréat,Divorcé,saut-élastique,cadre,Suburu,2019,5,2,1,3,Vol,Collision frontale,Dommage mineur,Pompier,OUI,O,N
+81,M,2,3ème cycle,Veuve,danse,prof-médicale,Chevrolet,2016,19,2,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,O,N
+105,M,8,Baccalauréat,Célibataire,jeux-vidéo,prof-médicale,Chevrolet,2022,16,2,0,3,Vol,?,Bris,Pompier,?,N,O
+100,M,5,Primaire,Divorcé,saut-élastique,ingénieur,BMW,2019,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Autre,?,O,N
+101,M,2,3ème cycle,Veuve,danse,technicien,Peugeot,2016,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+96,M,7,Aucun,Célibataire,jeux-vidéo,sécurité,Nissan,2005,4,1,0,2,Collision isolée,?,Bris,Pompier,?,N,N
+26,M,4,Primaire,Veuf,camping,technicien,Nissan,2019,1,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+27,M,2,3ème cycle,Veuve,danse,artisant,Nissan,2015,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+22,M,7,Aucun,Marié,jeux-vidéo,employé,Volkswagen,2005,22,1,0,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,?,N,N
+23,M,5,Baccalauréat,Célibataire,jeu-échecs,sans-emploi,Volkswagen,2020,12,1,0,3,Vol,?,Bris,SAMU-SMUR,NON,N,N
+41,M,1,Primaire,Veuve,danse,chauffeur,Volkswagen,2015,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,O
+43,M,7,Aucun,Marié,jeux-vidéo,sans-emploi,Ford,1999,16,1,2,2,Collision isolée,?,Dommage majeur,Police,?,N,N
+37,M,5,Professionel,Veuf,kayak,commercant,Ford,2020,6,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+39,M,1,Primaire,Veuf,danse,professeur,Ford,2015,13,1,2,1,Vol,Collision frontale,Bris,Aucun,?,O,N
+87,F,6,Professionel,Veuf,musique,sans-emploi,Fiat,2021,0,3,2,2,Collision isolée,?,Bris,SAMU-SMUR,NON,N,N
+88,M,4,Primaire,Veuf,kayak,prof-médicale,Fiat,2017,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+83,M,9,Secondaire,Marié,équitation,professeur,Renault,2015,21,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+108,F,6,Professionel,Divorcé,musique,prof-médicale,Renault,2021,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,Police,NON,N,O
+38,F,3,Secondaire,Concubinage,chasse,cadre,Renault,2015,14,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,O,N
+32,F,9,Baccalauréat,Marié,golf,ingénieur,Renault,1999,5,3,1,3,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+34,F,6,Professionel,Divorcé,saut-élastique,contremaître,Audi,2020,12,3,1,2,Collision isolée,?,Dommage majeur,Aucun,NON,N,N
+58,F,3,Secondaire,Concubinage,chasse,ingénieur,Audi,2015,8,3,1,3,Vol,Collision frontale,Bris,Aucun,NON,N,O
+83,F,9,Professionel,Divorcé,golf,ingénieur,Peugeot,2021,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+108,F,5,3ème cycle,Concubinage,cinéma,employé,Peugeot,2015,2,3,1,0,Collision multiple,Collision arrière,Perte totale,Police,OUI,N,N
+103,M,2,Baccalauréat,Célibataire,basketball,ingénieur,Accura,1999,17,2,0,3,Vol,Collision frontale,Bris,Police,OUI,O,N
+33,M,8,3ème cycle,Veuve,parachutisme,employé,Accura,2018,13,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,O,N
+27,M,5,Aucun,Concubinage,cinéma,sans-emploi,Accura,2005,10,2,0,1,Collision isolée,?,Perte totale,Police,?,N,N
+52,M,2,Primaire,Divorcé,danse,chauffeur,Volkswagen,2021,1,1,0,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,?,O,N
+53,M,8,3ème cycle,Veuve,parachutisme,agriculteur,Honda,2018,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+37,M,4,Primaire,Veuve,camping,agriculteur,Volkswagen,2020,1,1,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,?,O,N
+31,M,1,Aucun,Marié,équitation,artisant,Volkswagen,2016,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+33,M,7,Aucun,Célibataire,jeux-vidéo,ouvrier,Toyota,2005,22,1,0,0,Stationnement,Collision arrière,Perte totale,Police,?,N,N
+58,M,4,Primaire,Veuf,camping,professeur,Toyota,2018,3,1,2,1,Collision multiple,Collision coté,Perte totale,Pompier,?,O,N
+52,M,1,Secondaire,Marié,équitation,chauffeur,Ford,2016,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+47,F,7,Professionel,Marié,jeux-vidéo,sécurité,Fiat,2005,0,3,1,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,NON,N,N
+48,M,4,Primaire,Veuf,kayak,prof-médicale,Saab,2021,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+73,M,9,Secondaire,Marié,équitation,cadre,Saab,2016,3,1,2,1,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+68,F,6,Professionel,Divorcé,saut-élastique,prof-médicale,Renault,1999,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,Police,NON,N,O
+92,F,3,Secondaire,Concubinage,chasse,cadre,Renault,2018,14,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,N,N
+22,F,9,Professionel,Divorcé,golf,cadre,Renault,2005,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+47,F,5,3ème cycle,Concubinage,cinéma,sécurité,Renault,2019,8,3,1,2,Vol,?,Bris,SAMU-SMUR,OUI,N,N
+49,F,3,Secondaire,Concubinage,jeux-plateau,artisant,Peugeot,2015,23,2,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,OUI,O,N
+43,F,8,Baccalauréat,Divorcé,golf,ingénieur,Audi,2005,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+68,F,5,3ème cycle,Concubinage,cinéma,employé,Peugeot,2016,16,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,N
+93,M,2,Baccalauréat,Divorcé,basketball,artisant,Accura,2009,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,Police,OUI,O,N
+87,M,8,3ème cycle,Veuve,parachutisme,ingénieur,Accura,2021,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,?,O,N
+89,F,5,3ème cycle,Concubinage,cinéma,sans-emploi,Volkswagen,2018,20,2,1,2,Collision isolée,?,Bris,Aucun,OUI,N,N
+19,M,2,Baccalauréat,Célibataire,basketball,chauffeur,Volkswagen,2005,17,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+108,M,8,Primaire,Veuve,parachutisme,agriculteur,Honda,2021,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+103,M,5,3ème cycle,Veuve,cinéma,prof-médicale,Honda,2016,4,2,0,2,Vol,?,Bris,Police,?,N,O
+33,M,2,Primaire,Célibataire,lecture,cadre,Ford,1999,19,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+57,M,7,Aucun,Marié,jeux-vidéo,ouvrier,Ford,2017,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+82,M,4,Primaire,Veuf,kayak,sans-emploi,Ford,2022,12,1,2,3,Vol,?,Bris,Police,NON,N,O
+107,M,9,Secondaire,Marié,équitation,chauffeur,Ford,2019,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,N
+109,M,6,Aucun,Veuf,musique,ouvrier,Fiat,2009,6,3,2,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+38,M,4,Primaire,Veuf,kayak,technicien,Toyota,2017,3,1,2,3,Vol,Collision frontale,Bris,SAMU-SMUR,NON,O,N
+87,F,9,Professionel,Divorcé,golf,prof-médicale,Suburu,1999,14,3,2,0,Collision isolée,?,Dommage majeur,Autre,NON,N,N
+111,F,6,Secondaire,Concubinage,cinéma,cadre,Fiat,2020,20,3,1,3,Vol,?,Bris,SAMU-SMUR,NON,N,O
+41,F,3,Professionel,Divorcé,basketball,cadre,Fiat,2015,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,O
+89,M,9,Baccalauréat,Concubinage,jeux-vidéo,contremaître,Suburu,2018,4,2,0,3,Vol,?,Bris,Autre,OUI,N,O
+91,F,5,Baccalauréat,Divorcé,saut-élastique,technicien,Chevrolet,2016,11,2,1,1,Collision multiple,Collision coté,Dommage majeur,Pompier,OUI,O,N
+85,M,2,3ème cycle,Veuve,danse,sécurité,Chevrolet,1999,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,O,N
+87,F,8,3ème cycle,Concubinage,exercise,employé,Chevrolet,2021,8,2,1,2,Collision isolée,?,Bris,SAMU-SMUR,OUI,N,N
+17,M,5,Baccalauréat,Divorcé,saut-élastique,artisant,BMW,2015,5,2,1,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+106,M,2,3ème cycle,Veuve,danse,ingénieur,Peugeot,2019,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+66,M,8,Baccalauréat,Célibataire,jeux-vidéo,agriculteur,BMW,2015,6,1,0,1,Collision multiple,Collision coté,Perte totale,Autre,?,N,O
+61,M,5,Primaire,Veuve,camping,artisant,BMW,2021,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+86,M,1,Aucun,Célibataire,cross-fit,commercant,Nissan,2019,10,1,0,0,Stationnement,Collision arrière,Perte totale,Pompier,?,N,N
+80,M,8,Primaire,Veuf,musique,employé,Nissan,2015,0,1,2,3,Vol,?,Bris,Pompier,NON,N,O
+82,M,4,Primaire,Veuve,camping,chauffeur,Volkswagen,2005,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+107,M,1,Aucun,Marié,cross-fit,ouvrier,Mercedes,2018,4,1,2,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,N,N
+101,M,7,Professionel,Veuf,musique,sans-emploi,Volkswagen,2015,18,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+103,M,4,Primaire,Veuf,camping,cadre,Toyota,1999,9,3,0,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+97,M,1,Aucun,Marié,équitation,professeur,Toyota,2017,5,3,1,0,Collision isolée,Collision coté,Dommage majeur,Police,NON,N,N
+27,M,6,Professionel,Veuf,musique,prof-médicale,Ford,2015,12,1,2,2,Vol,?,Bris,SAMU-SMUR,NON,N,N
+22,F,4,Secondaire,Veuf,jeux-plateau,professeur,Fiat,2022,3,3,1,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,O,N
+23,M,9,Secondaire,Marié,équitation,technicien,Saab,2020,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+18,F,6,Professionel,Veuf,musique,contremaître,Fiat,2015,6,1,2,0,Stationnement,Collision arrière,Perte totale,Police,NON,N,N
+43,F,3,Secondaire,Concubinage,chasse,technicien,Renault,2022,20,3,1,3,Vol,Collision frontale,Bris,Police,NON,N,N
+44,M,9,Secondaire,Marié,équitation,artisant,Renault,2019,11,1,2,1,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+39,F,6,Professionel,Divorcé,saut-élastique,employé,Audi,2016,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,N,O
+87,F,3,Secondaire,Concubinage,jeux-plateau,agriculteur,Peugeot,2020,5,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+88,F,9,Baccalauréat,Divorcé,golf,artisant,Audi,2017,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+83,M,6,3ème cycle,Divorcé,cinéma,employé,Accura,2009,2,2,1,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+84,F,3,Secondaire,Concubinage,chasse,sans-emploi,Mercedes,2022,8,3,1,3,Vol,?,Bris,Autre,OUI,N,N
+109,F,8,Baccalauréat,Divorcé,golf,chauffeur,Accura,2017,5,3,1,3,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+39,F,5,3ème cycle,Concubinage,cinéma,ouvrier,Accura,2022,2,2,1,0,Stationnement,Collision arrière,Perte totale,Aucun,OUI,N,N
+34,M,2,Baccalauréat,Célibataire,cross-fit,chauffeur,Honda,2019,16,2,0,3,Vol,Collision frontale,Bris,Aucun,OUI,N,O
+35,F,8,Baccalauréat,Divorcé,golf,cadre,Honda,2016,7,2,0,1,Collision multiple,Collision coté,Dommage majeur,Police,?,O,N
+53,M,5,3ème cycle,Concubinage,cinéma,sécurité,Ford,2022,4,1,0,2,Collision isolée,?,Bris,Police,?,N,N
+78,M,2,Primaire,Célibataire,danse,technicien,Ford,2016,1,1,2,3,Vol,Collision frontale,Bris,Police,?,O,N
+79,M,8,Primaire,Veuve,parachutisme,cadre,Suburu,2009,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+104,M,4,Aucun,Célibataire,jeu-échecs,sécurité,Suburu,2020,4,2,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+99,M,1,Primaire,Veuf,lecture,cadre,Ford,1999,18,1,2,2,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+59,M,7,Aucun,Marié,jeux-vidéo,contremaître,Fiat,2019,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,N
+53,M,4,Professionel,Veuf,kayak,sécurité,Saab,2017,12,1,2,3,Vol,?,Bris,Aucun,NON,N,O
+78,M,9,Secondaire,Marié,équitation,technicien,Saab,1999,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+73,F,7,Aucun,Marié,marche,commercant,Renault,2019,23,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+74,M,3,Professionel,Veuf,kayak,employé,BMW,2017,6,1,2,0,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+99,M,9,Secondaire,Marié,équitation,artisant,Audi,1999,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Aucun,NON,O,N
+93,F,6,Professionel,Divorcé,saut-élastique,employé,Audi,2019,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,O,O
+23,F,3,Secondaire,Concubinage,chasse,employé,Audi,2009,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Aucun,OUI,N,N
+25,F,9,Secondaire,Marié,équitation,chauffeur,Accura,2022,21,3,2,3,Vol,Collision frontale,Bris,Police,NON,O,N
+73,F,5,3ème cycle,Concubinage,cinéma,commercant,Audi,2015,8,2,1,2,Collision isolée,?,Bris,Police,OUI,N,N
+74,F,3,Secondaire,Concubinage,chasse,professeur,Accura,2022,22,2,0,1,Collision multiple,Collision coté,Perte totale,Police,OUI,N,N
+69,F,8,Baccalauréat,Divorcé,golf,chauffeur,Mercedes,2020,5,3,1,3,Vol,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+64,M,6,3ème cycle,Divorcé,camping,sécurité,Honda,2015,2,2,1,0,Collision isolée,?,Dommage majeur,Aucun,OUI,N,N
+88,M,3,Baccalauréat,Célibataire,cross-fit,sans-emploi,Honda,2022,16,2,0,3,Vol,?,Bris,Aucun,?,N,N
+90,F,8,Baccalauréat,Divorcé,golf,cadre,Ford,2020,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,Autre,OUI,O,N
+84,M,5,3ème cycle,Veuve,camping,professeur,Suburu,2016,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,N
+109,M,2,Aucun,Célibataire,cross-fit,prof-médicale,Suburu,2022,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,?,N,N
+111,M,8,Baccalauréat,Célibataire,golf,ingénieur,Saab,2019,1,1,1,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+105,M,5,3ème cycle,Veuve,camping,technicien,Chevrolet,2016,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+100,M,2,Aucun,Concubinage,cross-fit,commercant,BMW,2005,22,1,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,N,O
+30,M,8,Primaire,Célibataire,parachutisme,technicien,BMW,2018,19,1,2,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+31,M,4,Primaire,Veuve,camping,artisant,Peugeot,2016,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,N
+26,M,1,Aucun,Marié,cross-fit,employé,Nissan,1999,16,1,2,2,Collision isolée,?,Dommage majeur,Pompier,?,N,N
+93,M,6,Professionel,Veuf,musique,employé,Fiat,2019,12,1,2,2,Vol,?,Bris,Police,NON,N,O
+23,M,3,Secondaire,Marié,jeux-plateau,artisant,Chevrolet,2005,9,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+17,F,9,Professionel,Divorcé,golf,employé,Renault,2021,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+19,M,6,Professionel,Veuf,musique,sans-emploi,Renault,2018,14,2,1,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+108,F,3,Secondaire,Concubinage,chasse,agriculteur,Peugeot,2005,20,3,1,1,Vol,Collision frontale,Bris,Aucun,NON,O,N
+38,F,9,Professionel,Divorcé,golf,agriculteur,Audi,2021,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+63,F,5,3ème cycle,Concubinage,cinéma,sans-emploi,Audi,2016,14,3,1,0,Collision multiple,Collision arrière,Perte totale,Police,OUI,N,N
+58,M,2,Baccalauréat,Célibataire,basketball,agriculteur,Accura,1999,5,2,0,3,Vol,Collision frontale,Bris,Police,OUI,O,N
+59,F,8,Baccalauréat,Divorcé,golf,professeur,Accura,2020,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+107,M,5,Baccalauréat,Célibataire,jeu-échecs,sans-emploi,Accura,2005,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+109,M,2,Baccalauréat,Divorcé,basketball,cadre,Volkswagen,2021,13,1,1,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+103,M,8,3ème cycle,Veuve,parachutisme,professeur,Honda,2018,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+33,M,5,Aucun,Célibataire,jeu-échecs,prof-médicale,Honda,2005,16,2,0,3,Vol,?,Bris,Aucun,?,N,N
+28,M,2,Primaire,Célibataire,danse,ingénieur,Ford,2021,7,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+29,M,8,3ème cycle,Veuve,parachutisme,technicien,Suburu,2018,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Autre,?,O,N
+24,M,4,Aucun,Marié,jeu-échecs,sécurité,Saab,2015,4,1,0,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+25,M,2,Baccalauréat,Célibataire,cross-fit,employé,Saab,2020,1,1,2,3,Collision multiple,Collision arrière,Bris,Aucun,?,O,N
+50,M,7,Primaire,Veuve,parachutisme,artisant,Saab,2017,15,2,0,1,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+45,M,4,Aucun,Marié,jeu-échecs,employé,BMW,2009,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,N,N
+70,M,1,Primaire,Veuf,lecture,artisant,BMW,2020,18,1,2,1,Collision multiple,Collision coté,Perte totale,Autre,?,N,N
+94,M,7,Aucun,Marié,marche,artisant,BMW,2015,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+24,M,3,Professionel,Veuf,kayak,commercant,BMW,2021,12,1,2,3,Vol,?,Bris,Aucun,NON,N,O
+49,M,9,Secondaire,Marié,équitation,agriculteur,BMW,2016,9,1,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+44,F,6,Professionel,Divorcé,saut-élastique,commercant,Audi,1999,23,3,1,2,Collision isolée,?,Dommage majeur,Aucun,NON,O,N
+68,F,3,Secondaire,Concubinage,chasse,commercant,Audi,2018,20,3,1,3,Vol,?,Bris,Aucun,OUI,N,N
+70,M,9,Secondaire,Marié,équitation,professeur,Audi,2005,17,3,1,0,Collision multiple,Collision coté,Dommage majeur,Police,OUI,O,N
+95,F,6,Professionel,Divorcé,musique,prof-médicale,Audi,2019,14,3,1,0,Collision isolée,Collision arrière,Perte totale,Police,OUI,N,N
+18,F,3,Secondaire,Concubinage,chasse,cadre,Accura,2009,4,2,0,3,Vol,Collision frontale,Bris,Police,OUI,O,N
+42,M,9,3ème cycle,Divorcé,golf,cadre,Accura,2021,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,N
+44,F,5,3ème cycle,Concubinage,cinéma,prof-médicale,Honda,2019,8,2,1,2,Collision isolée,?,Bris,Aucun,OUI,N,N
+38,M,2,Baccalauréat,Célibataire,cross-fit,professeur,Honda,2015,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Aucun,OUI,N,N
+63,M,8,3ème cycle,Veuve,parachutisme,professeur,Honda,2021,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+65,M,5,3ème cycle,Veuve,cinéma,contremaître,Ford,2018,2,2,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,OUI,N,N
+59,M,2,Baccalauréat,Célibataire,cross-fit,sécurité,Suburu,2015,16,2,0,3,Vol,?,Bris,Autre,?,N,O
+61,M,7,Baccalauréat,Veuve,golf,technicien,Ford,2017,13,2,2,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,N,N
+68,M,4,Primaire,Veuf,kayak,technicien,Ford,2022,6,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+62,M,1,Secondaire,Veuve,danse,artisant,Ford,2019,21,1,2,3,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,O
+64,M,7,Aucun,Marié,marche,employé,Saab,2016,4,1,2,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+58,M,3,Professionel,Veuf,kayak,contremaître,Saab,2005,18,1,2,1,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+83,M,9,Secondaire,Marié,équitation,ingénieur,Saab,2019,15,1,2,1,Collision multiple,Collision coté,Dommage majeur,Police,NON,O,N
+85,M,7,Aucun,Marié,marche,sans-emploi,Renault,2015,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,O,N
+79,M,3,Professionel,Veuf,kayak,commercant,BMW,2005,12,1,2,2,Collision isolée,?,Bris,Aucun,NON,N,N
+104,M,9,Secondaire,Marié,équitation,agriculteur,Audi,2019,9,3,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+98,F,7,Aucun,Marié,marche,professeur,Audi,2015,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Aucun,NON,O,N
+100,M,3,Professionel,Veuf,kayak,ouvrier,Mercedes,2005,6,3,2,0,Stationnement,Collision arrière,Perte totale,Autre,NON,N,N
+94,F,1,Secondaire,Concubinage,exercise,chauffeur,Mercedes,2019,3,3,2,1,Collision multiple,Collision coté,Perte totale,Autre,NON,O,N
+24,F,6,Professionel,Divorcé,saut-élastique,chauffeur,Mercedes,2015,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+79,F,3,Secondaire,Concubinage,chasse,cadre,Accura,2019,20,3,1,3,Vol,?,Bris,Autre,NON,N,O
+104,F,9,Professionel,Divorcé,golf,cadre,Accura,2005,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+57,M,5,Baccalauréat,Célibataire,jeu-échecs,ouvrier,Accura,2017,4,2,0,3,Vol,?,Bris,Police,OUI,N,N
+59,F,2,Baccalauréat,Veuve,basketball,technicien,Accura,1999,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,?,O,O
+107,M,7,Aucun,Célibataire,jeux-vidéo,prof-médicale,Nissan,2005,22,2,0,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,?,N,O
+91,M,4,Aucun,Marié,jeux-plateau,prof-médicale,Audi,2017,15,1,2,2,Collision isolée,?,Dommage majeur,Pompier,?,O,N
+74,M,9,Secondaire,Marié,équitation,professeur,BMW,2021,9,3,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+68,F,7,Professionel,Marié,saut-élastique,contremaître,Audi,2017,23,3,1,2,Collision isolée,?,Dommage majeur,Aucun,NON,O,N
+70,M,3,Professionel,Veuf,kayak,sécurité,Nissan,2015,6,1,2,0,Stationnement,Collision arrière,Perte totale,Autre,NON,N,N
+95,F,9,Secondaire,Marié,équitation,technicien,Accura,2021,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Autre,NON,O,N
+89,F,6,Professionel,Divorcé,saut-élastique,cadre,Mercedes,2017,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+19,F,2,3ème cycle,Concubinage,chasse,sécurité,Mercedes,1999,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Aucun,OUI,N,N
+21,F,9,Secondaire,Concubinage,équitation,artisant,Honda,2020,5,2,1,3,Vol,Collision frontale,Bris,Aucun,OUI,O,N
+39,F,6,Professionel,Divorcé,saut-élastique,commercant,Honda,2009,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Aucun,OUI,N,O
+63,M,2,Baccalauréat,Divorcé,chasse,commercant,Accura,2016,19,2,0,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+24,M,8,3ème cycle,Veuve,parachutisme,employé,Honda,2005,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Aucun,OUI,O,N
+18,M,5,Aucun,Célibataire,jeu-échecs,contremaître,Honda,2021,16,2,0,2,Collision isolée,?,Bris,Police,?,N,N
+43,M,1,Primaire,Veuve,danse,ingénieur,Ford,2016,13,1,0,3,Vol,Collision frontale,Dommage mineur,Police,?,O,N
+44,M,8,3ème cycle,Veuve,parachutisme,agriculteur,Ford,1999,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+39,M,4,Aucun,Célibataire,jeu-échecs,commercant,Saab,2021,10,1,0,0,Stationnement,Collision arrière,Perte totale,Aucun,?,N,N
+40,M,2,Baccalauréat,Célibataire,cross-fit,professeur,Saab,2017,0,1,0,3,Vol,Collision frontale,Bris,Aucun,?,N,O
+58,M,8,3ème cycle,Veuve,parachutisme,professeur,Fiat,2019,18,3,2,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+18,M,4,Primaire,Veuf,kayak,chauffeur,Saab,2016,0,1,2,3,Vol,?,Bris,Aucun,?,N,O
+43,M,1,Secondaire,Marié,équitation,chauffeur,Saab,2022,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Aucun,NON,O,N
+68,M,6,Professionel,Veuf,musique,ouvrier,Saab,2017,18,1,2,0,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+63,F,3,Secondaire,Concubinage,chasse,chauffeur,Renault,2005,9,3,1,3,Vol,Collision frontale,Bris,Police,NON,O,N
+64,M,9,Secondaire,Marié,équitation,cadre,Renault,2021,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Aucun,NON,O,N
+59,M,6,Professionel,Veuf,musique,sécurité,Renault,2009,12,3,2,2,Collision isolée,?,Bris,Aucun,NON,N,N
+19,F,3,Secondaire,Concubinage,jeux-plateau,technicien,Peugeot,2022,17,2,2,3,Vol,Collision frontale,Bris,SAMU-SMUR,NON,O,N
+108,F,8,Professionel,Divorcé,golf,cadre,Peugeot,2015,20,2,1,2,Collision isolée,?,Bris,SAMU-SMUR,OUI,N,N
+61,M,6,Secondaire,Concubinage,cinéma,ingénieur,Peugeot,2022,10,2,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,OUI,N,N
+86,M,3,3ème cycle,Divorcé,danse,ingénieur,Peugeot,2017,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+88,M,8,3ème cycle,Concubinage,exercise,contremaître,Accura,1999,14,2,1,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+18,M,5,Baccalauréat,Célibataire,saut-élastique,ingénieur,Accura,2020,11,2,0,1,Collision multiple,Collision coté,Perte totale,Police,OUI,O,N
+107,M,1,Primaire,Veuve,danse,technicien,Nissan,2015,7,2,0,2,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,N
+37,M,7,Aucun,Célibataire,jeux-vidéo,contremaître,Accura,1999,22,2,0,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+39,M,5,Baccalauréat,Célibataire,jeu-échecs,agriculteur,Volkswagen,2018,12,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,N,N
+63,M,2,3ème cycle,Veuve,danse,agriculteur,Volkswagen,2009,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,N
+81,M,8,Aucun,Célibataire,jeux-vidéo,sans-emploi,Volkswagen,2020,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,N,N
+83,M,4,Primaire,Veuf,camping,agriculteur,Ford,2018,13,1,2,3,Vol,Collision frontale,Bris,Police,?,O,N
+77,M,2,Secondaire,Marié,équitation,artisant,Ford,2009,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+79,M,6,Aucun,Veuf,jeux-vidéo,commercant,Ford,2020,0,1,2,2,Vol,?,Bris,SAMU-SMUR,NON,N,O
+104,M,4,Primaire,Veuf,kayak,professeur,Fiat,2016,7,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+98,M,9,Secondaire,Marié,équitation,chauffeur,Saab,2009,21,1,2,3,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+100,M,7,Aucun,Marié,jeux-vidéo,sécurité,Renault,2021,12,3,2,2,Collision isolée,?,Dommage majeur,Police,?,N,N
+23,M,4,Primaire,Veuf,kayak,technicien,Renault,2016,8,3,1,3,Vol,Collision frontale,Bris,Police,NON,N,O
+78,F,9,Professionel,Divorcé,golf,prof-médicale,Renault,2020,12,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+102,F,6,Secondaire,Concubinage,cinéma,cadre,Renault,2015,8,3,1,3,Vol,Collision frontale,Bris,Police,NON,N,O
+32,F,3,Professionel,Divorcé,basketball,cadre,Renault,2021,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+80,M,8,Baccalauréat,Célibataire,jeux-vidéo,professeur,Chevrolet,2005,16,2,0,3,Vol,?,Bris,Pompier,OUI,N,O
+82,F,5,Baccalauréat,Divorcé,saut-élastique,technicien,Chevrolet,2022,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,OUI,O,N
+76,M,1,3ème cycle,Célibataire,danse,prof-médicale,Chevrolet,2009,10,2,0,0,Collision multiple,Collision arrière,Perte totale,Autre,?,N,N
+60,M,7,Primaire,Veuve,parachutisme,cadre,BMW,2020,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Autre,?,O,N
+61,M,5,3ème cycle,Veuve,camping,employé,BMW,2016,21,1,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,O,N
+79,M,2,Baccalauréat,Célibataire,cross-fit,employé,BMW,2022,18,1,2,1,Collision multiple,Collision arrière,Perte totale,Autre,NON,N,N
+81,M,7,Primaire,Veuve,parachutisme,ingénieur,Nissan,2020,1,1,0,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+106,M,4,Aucun,Marié,jeux-plateau,employé,Nissan,2009,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,N,N
+100,M,9,Professionel,Veuf,lecture,contremaître,Nissan,2022,12,1,2,3,Vol,?,Bris,Autre,NON,N,O
+30,M,6,Secondaire,Marié,marche,ingénieur,Nissan,2017,9,1,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+32,M,4,Aucun,Marié,jeux-plateau,sans-emploi,Mercedes,1999,6,3,2,0,Collision isolée,?,Dommage majeur,Autre,NON,N,N
+56,M,1,Primaire,Veuf,lecture,sans-emploi,Mercedes,2019,12,1,2,3,Vol,?,Bris,Autre,NON,N,O
+51,M,6,Secondaire,Marié,marche,agriculteur,Toyota,2017,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Pompier,NON,O,N
+76,F,3,Professionel,Divorcé,kayak,sans-emploi,Toyota,2022,0,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+70,F,1,3ème cycle,Veuf,exercise,prof-médicale,Accura,2021,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,O,N
+84,F,5,3ème cycle,Concubinage,cinéma,sans-emploi,Mercedes,2019,14,3,1,0,Stationnement,Collision arrière,Perte totale,Aucun,OUI,N,N
+79,M,3,Baccalauréat,Célibataire,cross-fit,agriculteur,Honda,2015,4,2,0,3,Vol,Collision frontale,Bris,Aucun,OUI,N,O
+103,M,8,3ème cycle,Veuve,parachutisme,agriculteur,Honda,2021,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+105,F,5,3ème cycle,Concubinage,cinéma,prof-médicale,Ford,2018,8,2,1,2,Collision isolée,?,Bris,Autre,OUI,N,N
+99,M,2,Baccalauréat,Célibataire,cross-fit,ouvrier,Suburu,2015,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,OUI,N,N
+29,M,8,Primaire,Veuve,parachutisme,professeur,Suburu,2021,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+24,M,5,3ème cycle,Veuve,cinéma,contremaître,Saab,2018,10,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,N
+25,M,2,Baccalauréat,Célibataire,cross-fit,sécurité,Chevrolet,2015,16,2,0,3,Vol,?,Bris,Pompier,?,N,N
+20,M,8,Primaire,Célibataire,parachutisme,cadre,BMW,1999,7,1,0,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+45,M,4,Aucun,Marié,jeux-plateau,sécurité,BMW,2017,4,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,N,N
+46,M,1,Aucun,Célibataire,cross-fit,employé,BMW,2015,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Pompier,?,N,N
+41,M,7,Primaire,Veuf,parachutisme,ingénieur,Nissan,2022,1,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+42,M,5,Primaire,Veuve,camping,agriculteur,Nissan,2017,21,1,2,0,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+67,M,1,Aucun,Célibataire,cross-fit,sans-emploi,Nissan,1999,12,1,0,2,Collision isolée,?,Bris,Autre,NON,N,N
+85,M,7,Primaire,Veuve,parachutisme,chauffeur,Mercedes,2020,9,3,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+86,M,4,Aucun,Marié,jeux-plateau,agriculteur,Volkswagen,2017,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+111,M,1,Professionel,Veuf,lecture,sans-emploi,Volkswagen,1999,12,1,2,3,Vol,?,Bris,SAMU-SMUR,NON,N,O
+106,F,6,Secondaire,Marié,marche,chauffeur,Volkswagen,2018,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,N
+36,F,3,Professionel,Divorcé,basketball,sans-emploi,Toyota,2009,23,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+37,M,9,Professionel,Veuf,lecture,prof-médicale,Toyota,2022,6,1,2,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+62,M,6,Secondaire,Marié,marche,cadre,Toyota,2017,11,3,2,1,Collision multiple,Collision coté,Dommage majeur,Autre,NON,O,N
+56,F,3,Professionel,Divorcé,basketball,prof-médicale,Fiat,2009,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,O,O
+81,F,9,Secondaire,Concubinage,exercise,prof-médicale,Fiat,2020,14,3,1,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+76,M,6,Baccalauréat,Marié,saut-élastique,ingénieur,Chevrolet,2017,5,2,1,3,Vol,Collision frontale,Dommage mineur,Pompier,OUI,O,N
+101,M,3,3ème cycle,Veuve,chasse,prof-médicale,Chevrolet,2022,2,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
+102,F,8,3ème cycle,Concubinage,exercise,contremaître,Chevrolet,2020,8,3,1,3,Vol,?,Bris,SAMU-SMUR,OUI,N,O
+32,F,5,Baccalauréat,Divorcé,saut-élastique,ingénieur,Chevrolet,2009,5,3,1,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+27,M,2,3ème cycle,Veuve,danse,contremaître,Peugeot,2022,19,2,0,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,OUI,N,N
+51,M,8,Baccalauréat,Célibataire,jeux-vidéo,contremaître,Peugeot,2017,16,2,0,3,Vol,?,Bris,SAMU-SMUR,OUI,N,O
+46,F,5,Baccalauréat,Divorcé,saut-élastique,agriculteur,Nissan,2009,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+47,M,2,3ème cycle,Veuve,danse,commercant,Accura,2022,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,N
+42,M,8,Aucun,Concubinage,jeux-vidéo,employé,Accura,2019,4,1,0,2,Collision isolée,?,Bris,SAMU-SMUR,?,N,N
+67,M,4,Primaire,Veuf,camping,artisant,Accura,1999,1,1,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,?,O,N
+92,M,1,Aucun,Marié,équitation,commercant,Volkswagen,2019,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,?,N,N
+93,M,7,Aucun,Célibataire,jeux-vidéo,ouvrier,Volkswagen,2016,4,2,0,2,Vol,?,Bris,Police,?,N,O
+23,M,4,Primaire,Veuve,camping,professeur,Volkswagen,2022,1,1,0,3,Vol,Collision frontale,Dommage mineur,Pompier,?,O,N
+18,M,1,Aucun,Marié,équitation,ouvrier,Ford,2019,15,1,2,2,Collision isolée,?,Dommage majeur,Police,?,O,N
+107,M,7,Aucun,Veuf,jeux-vidéo,ouvrier,Ford,2009,12,1,2,3,Vol,?,Bris,Police,NON,N,O
+37,F,4,Secondaire,Veuve,jeux-plateau,technicien,Ford,2020,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+92,M,9,Professionel,Veuf,lecture,prof-médicale,Ford,2015,6,1,2,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+45,F,6,Baccalauréat,Divorcé,saut-élastique,chauffeur,Toyota,2016,23,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,O,N
+70,F,2,3ème cycle,Concubinage,chasse,ouvrier,Toyota,2005,14,2,1,0,Stationnement,Collision arrière,Perte totale,Autre,OUI,N,N
+95,M,8,Baccalauréat,Célibataire,golf,professeur,Nissan,2016,11,2,1,1,Collision multiple,Collision coté,Perte totale,Autre,OUI,O,N
+26,M,4,Aucun,Marié,jeu-échecs,ouvrier,BMW,2018,18,1,2,0,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+51,M,1,Primaire,Veuf,lecture,professeur,Audi,2009,1,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+45,M,6,Secondaire,Marié,marche,chauffeur,Nissan,1999,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+100,M,4,Primaire,Veuf,kayak,prof-médicale,Audi,2015,2,1,2,1,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+95,F,9,Secondaire,Concubinage,équitation,professeur,Mercedes,2005,9,3,2,3,Vol,Collision frontale,Bris,Autre,NON,O,N
+89,F,7,Professionel,Marié,marche,technicien,Mercedes,2020,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+91,F,3,Professionel,Veuf,kayak,sécurité,Mercedes,2015,6,3,2,0,Stationnement,Collision arrière,Perte totale,Pompier,NON,N,N
+21,F,9,Secondaire,Concubinage,équitation,technicien,Toyota,1999,3,3,1,1,Collision multiple,Collision coté,Perte totale,Pompier,NON,O,N
+46,F,6,Professionel,Divorcé,saut-élastique,contremaître,Honda,2018,23,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,O,N
+40,F,2,3ème cycle,Concubinage,chasse,sécurité,Toyota,2015,14,3,1,0,Stationnement,Collision arrière,Perte totale,Autre,OUI,N,N
+65,M,8,Baccalauréat,Divorcé,golf,technicien,Suburu,2021,11,2,1,1,Collision multiple,Collision coté,Dommage majeur,Autre,OUI,O,N
+66,F,6,Professionel,Divorcé,saut-élastique,artisant,Suburu,2017,1,2,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,NON,O,O
+20,M,2,Baccalauréat,Célibataire,cross-fit,ingénieur,Ford,2019,4,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,O,N
+44,M,8,3ème cycle,Veuve,exercise,commercant,Ford,2005,16,1,2,2,Collision isolée,?,Dommage majeur,Police,?,N,N
+93,M,5,Primaire,Célibataire,kayak,agriculteur,Ford,2019,12,1,2,3,Vol,Collision frontale,Bris,Police,?,N,O
+94,M,1,Primaire,Veuve,danse,artisant,Suburu,2017,19,2,0,1,Collision multiple,Collision coté,Dommage majeur,Aucun,?,O,N
+89,M,7,Aucun,Marié,marche,employé,Saab,2005,9,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,N
+18,M,4,Primaire,Veuf,kayak,employé,Saab,2019,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+20,M,1,Primaire,Veuve,danse,chauffeur,Renault,2016,13,1,0,3,Vol,Collision frontale,Dommage mineur,Autre,?,O,N
+109,M,7,Aucun,Marié,marche,sans-emploi,BMW,2005,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+104,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,BMW,2021,18,3,2,0,Stationnement,Collision arrière,Perte totale,Aucun,NON,N,N
+34,F,1,Secondaire,Veuf,danse,cadre,Audi,2016,15,3,2,1,Collision multiple,Collision coté,Perte totale,Aucun,NON,O,N
+35,M,7,Aucun,Marié,marche,professeur,Nissan,2005,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,N
+30,F,3,Professionel,Veuf,kayak,ouvrier,Mercedes,2021,12,3,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+31,M,1,Primaire,Veuf,lecture,sécurité,Mercedes,2018,18,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+56,M,7,Secondaire,Marié,marche,technicien,Mercedes,1999,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+51,F,3,Professionel,Divorcé,kayak,sécurité,Toyota,2021,6,3,1,0,Stationnement,Collision arrière,Dommage mineur,Pompier,NON,N,O
+76,F,9,Secondaire,Concubinage,exercise,technicien,Toyota,2015,2,3,1,1,Collision multiple,Collision coté,Perte totale,Pompier,NON,O,N
+100,F,6,Professionel,Divorcé,saut-élastique,technicien,Toyota,2021,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+95,F,3,3ème cycle,Veuf,chasse,commercant,Suburu,2018,14,2,1,0,Stationnement,Collision arrière,Perte totale,Autre,OUI,N,N
+96,F,9,Secondaire,Concubinage,exercise,artisant,Fiat,2015,20,3,1,3,Vol,Collision frontale,Bris,SAMU-SMUR,NON,N,O
+26,F,6,Professionel,Divorcé,saut-élastique,artisant,Fiat,2021,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,O
+74,M,2,Baccalauréat,Célibataire,cross-fit,contremaître,Suburu,2005,4,2,0,3,Vol,?,Bris,Autre,OUI,N,O
+76,F,8,Baccalauréat,Divorcé,golf,agriculteur,Saab,2021,11,2,1,1,Collision multiple,Collision coté,Dommage majeur,Pompier,OUI,O,N
+70,M,5,3ème cycle,Veuve,camping,commercant,Chevrolet,2018,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,O,N
+72,F,2,3ème cycle,Concubinage,chasse,ouvrier,Chevrolet,2015,16,2,1,2,Collision isolée,?,Bris,Autre,?,N,N
+90,M,8,Baccalauréat,Divorcé,golf,professeur,BMW,2021,13,1,0,3,Vol,Collision frontale,Bris,Autre,?,O,N
+91,M,5,3ème cycle,Veuve,camping,chauffeur,Peugeot,2018,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+86,M,2,Aucun,Célibataire,cross-fit,sans-emploi,Nissan,2015,10,1,0,0,Stationnement,Collision arrière,Perte totale,Pompier,?,N,N
+87,M,8,Baccalauréat,Célibataire,jeux-vidéo,prof-médicale,Nissan,1999,16,2,0,3,Vol,?,Bris,Police,OUI,N,O
+17,M,5,Primaire,Veuve,camping,cadre,Nissan,2017,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,?,O,N
+107,M,1,Aucun,Marié,cross-fit,prof-médicale,Volkswagen,2015,4,1,2,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,N,N
+38,F,6,Secondaire,Concubinage,marche,professeur,Chevrolet,2016,21,3,1,3,Vol,Collision frontale,Bris,Police,NON,O,N
+32,F,3,Baccalauréat,Divorcé,basketball,chauffeur,Chevrolet,2021,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Pompier,NON,N,O
+87,F,9,Secondaire,Concubinage,exercise,prof-médicale,Chevrolet,2016,22,2,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,N,N
+82,F,5,Baccalauréat,Divorcé,saut-élastique,professeur,Peugeot,2009,5,2,1,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+76,M,3,3ème cycle,Divorcé,danse,contremaître,Peugeot,2021,19,2,0,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,OUI,O,N
+101,M,9,Baccalauréat,Concubinage,jeux-vidéo,ouvrier,Peugeot,2016,16,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,O
+103,M,5,Baccalauréat,Célibataire,saut-élastique,technicien,Accura,2009,23,2,1,1,Collision multiple,Collision coté,Perte totale,Police,OUI,O,N
+97,M,2,3ème cycle,Veuve,danse,cadre,Accura,2021,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,?,O,N
+99,M,8,3ème cycle,Concubinage,exercise,employé,Accura,2016,20,2,1,2,Collision isolée,?,Bris,Aucun,OUI,N,N
+29,M,5,Baccalauréat,Célibataire,saut-élastique,artisant,Volkswagen,1999,1,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+23,M,2,Primaire,Veuve,danse,ingénieur,Honda,2021,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+18,M,8,Aucun,Veuve,exercise,sans-emploi,Ford,2018,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,O
+96,M,4,Secondaire,Veuve,jeux-plateau,agriculteur,Volkswagen,2019,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+98,M,1,Aucun,Marié,cross-fit,commercant,Ford,2016,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+92,M,7,Professionel,Veuf,musique,employé,Ford,2005,12,1,2,3,Vol,?,Bris,Police,NON,N,O
+94,M,4,Primaire,Veuf,camping,chauffeur,Ford,2019,19,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+24,M,1,Aucun,Marié,équitation,ouvrier,Fiat,2015,15,1,2,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+18,M,6,Professionel,Veuf,musique,sans-emploi,Saab,2005,6,1,2,0,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+108,M,4,Primaire,Veuf,kayak,cadre,Renault,2020,21,3,1,3,Vol,Collision frontale,Bris,Police,NON,O,N
+37,F,1,Professionel,Marié,équitation,sécurité,Renault,2009,0,3,2,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+62,F,7,Secondaire,Veuf,cinéma,sécurité,Renault,2021,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Police,OUI,N,N
+64,F,3,Secondaire,Marié,jeux-plateau,cadre,Audi,2019,21,3,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+58,F,9,Professionel,Divorcé,golf,professeur,Audi,2015,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+83,F,5,3ème cycle,Concubinage,cinéma,prof-médicale,Audi,2021,8,3,1,3,Vol,?,Bris,Police,OUI,N,O
+108,F,2,Baccalauréat,Divorcé,basketball,cadre,Audi,2016,5,3,1,3,Vol,Collision frontale,Dommage mineur,Police,OUI,O,N
+110,F,9,Professionel,Divorcé,golf,employé,Accura,1999,19,2,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+32,F,6,Secondaire,Concubinage,cinéma,employé,Accura,2018,16,2,0,3,Vol,?,Bris,Police,OUI,N,O
+57,M,3,Primaire,Divorcé,basketball,artisant,Accura,2005,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,?,O,N
+82,M,8,Aucun,Concubinage,jeux-vidéo,commercant,Accura,2019,10,2,0,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+84,M,5,Baccalauréat,Célibataire,jeu-échecs,artisant,Honda,2016,16,2,0,3,Vol,Collision frontale,Bris,Aucun,OUI,O,N
+108,M,2,3ème cycle,Veuve,danse,artisant,Volkswagen,2022,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+103,M,7,Aucun,Célibataire,jeux-vidéo,employé,Volkswagen,2009,0,1,2,3,Collision multiple,Collision frontale,Bris,SAMU-SMUR,?,O,N
+63,M,4,Primaire,Veuve,camping,agriculteur,Volkswagen,2022,7,2,0,1,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+58,M,1,Aucun,Marié,équitation,commercant,Ford,2019,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+82,M,7,Primaire,Veuf,musique,commercant,Ford,2009,18,1,2,1,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+77,M,4,Secondaire,Marié,camping,professeur,Ford,2020,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+102,F,1,Professionel,Marié,lecture,prof-médicale,Fiat,2017,6,3,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,N
+103,M,7,Primaire,Veuf,musique,ouvrier,Saab,2022,12,1,2,3,Vol,?,Bris,Aucun,NON,N,O
+33,F,3,Professionel,Divorcé,basketball,sans-emploi,Fiat,2016,6,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,O
+17,F,9,Secondaire,Concubinage,exercise,professeur,Suburu,2021,2,3,1,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,O,N
+106,F,5,Baccalauréat,Divorcé,saut-élastique,chauffeur,Fiat,2018,17,3,1,3,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+36,F,3,3ème cycle,Concubinage,chasse,ouvrier,Suburu,2021,20,3,1,3,Vol,?,Bris,Autre,OUI,N,O
+91,F,8,Baccalauréat,Divorcé,golf,cadre,Suburu,2016,1,2,1,3,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+109,F,5,3ème cycle,Concubinage,cinéma,sécurité,Suburu,2020,4,2,0,3,Stationnement,Collision arrière,Perte totale,Aucun,?,N,N
+39,M,2,Primaire,Célibataire,basketball,technicien,Saab,2017,19,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+40,M,8,3ème cycle,Veuve,parachutisme,cadre,Saab,2021,22,1,0,0,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+88,M,5,Primaire,Veuf,kayak,ouvrier,Saab,2017,12,1,2,3,Vol,?,Bris,Aucun,?,N,N
+90,M,1,Primaire,Veuve,danse,technicien,Renault,2015,19,1,0,1,Collision multiple,Collision coté,Dommage majeur,Autre,?,O,N
+84,M,7,Aucun,Marié,marche,sécurité,BMW,2022,9,1,2,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,O,N
+86,M,4,Aucun,Célibataire,jeu-échecs,employé,BMW,2017,16,1,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+111,M,1,Primaire,Veuve,danse,artisant,Audi,2009,21,3,0,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+105,M,7,Aucun,Marié,marche,ingénieur,Nissan,2022,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+100,F,4,Professionel,Célibataire,kayak,sans-emploi,Mercedes,2019,18,3,2,0,Stationnement,Collision arrière,Perte totale,Autre,NON,N,N
+60,M,9,Secondaire,Marié,équitation,artisant,Nissan,1999,21,1,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+55,F,6,Professionel,Divorcé,saut-élastique,employé,Mercedes,2019,11,3,1,2,Collision isolée,?,Dommage majeur,Autre,NON,O,N
+56,M,3,Professionel,Veuf,kayak,sans-emploi,Mercedes,2017,18,1,2,0,Stationnement,Collision arrière,Perte totale,Pompier,NON,N,N
+51,F,9,Secondaire,Concubinage,exercise,agriculteur,Toyota,2005,8,3,1,3,Vol,Collision frontale,Bris,Pompier,NON,O,N
+75,F,6,Professionel,Divorcé,saut-élastique,agriculteur,Honda,2016,5,3,1,2,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,N,O
+36,F,3,Secondaire,Concubinage,chasse,professeur,Honda,2022,16,2,1,3,Vol,Collision frontale,Bris,Aucun,NON,O,N
+30,F,8,Baccalauréat,Divorcé,golf,chauffeur,Toyota,2020,23,3,1,1,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+25,M,6,3ème cycle,Divorcé,camping,sécurité,Suburu,2016,13,2,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,OUI,N,N
+49,M,3,Baccalauréat,Concubinage,cross-fit,chauffeur,Suburu,2021,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,OUI,N,N
+74,M,8,3ème cycle,Veuve,parachutisme,chauffeur,Suburu,2017,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+76,M,5,3ème cycle,Veuve,cinéma,sécurité,Saab,2015,14,2,1,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
+101,M,2,Baccalauréat,Célibataire,cross-fit,technicien,Saab,2019,11,2,0,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,O,N
+95,M,7,Primaire,Veuve,parachutisme,cadre,Chevrolet,2017,1,2,0,3,Stationnement,Collision frontale,Dommage mineur,Autre,?,O,N
+97,M,5,3ème cycle,Veuve,cinéma,employé,BMW,2005,16,1,0,2,Collision isolée,?,Dommage majeur,Autre,?,N,N
+91,M,1,Aucun,Célibataire,cross-fit,contremaître,BMW,2019,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Pompier,?,N,N
+21,M,7,Primaire,Veuve,parachutisme,ingénieur,Peugeot,2017,19,2,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+99,M,4,Primaire,Veuf,kayak,ingénieur,Renault,2009,3,3,2,1,Vol,Collision frontale,Bris,Police,NON,O,N
+53,F,1,Professionel,Divorcé,golf,sécurité,Renault,2021,0,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+77,F,6,Secondaire,Concubinage,cinéma,technicien,Renault,2016,20,3,1,3,Vol,Collision frontale,Bris,Police,NON,N,O
+102,F,3,Professionel,Divorcé,basketball,technicien,Renault,2020,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+62,F,9,Secondaire,Concubinage,exercise,employé,Chevrolet,2009,20,3,1,3,Vol,?,Bris,Police,NON,N,O
+87,F,6,Baccalauréat,Divorcé,saut-élastique,artisant,Chevrolet,2020,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+40,M,2,Baccalauréat,Célibataire,cross-fit,contremaître,Chevrolet,2005,4,2,0,3,Vol,?,Bris,Pompier,OUI,N,N
+96,M,8,3ème cycle,Veuve,parachutisme,commercant,Saab,2016,15,1,0,2,Collision isolée,?,Dommage majeur,Aucun,?,O,N
+90,M,4,Aucun,Célibataire,jeu-échecs,employé,Chevrolet,2009,22,2,0,0,Stationnement,Collision arrière,Perte totale,Autre,?,N,N
+58,M,7,Primaire,Veuf,parachutisme,chauffeur,Toyota,2021,19,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+35,M,1,Primaire,Veuve,danse,cadre,Saab,2015,13,1,0,3,Vol,Collision frontale,Dommage mineur,Aucun,?,O,N
+72,M,7,Primaire,Veuf,musique,prof-médicale,Ford,2016,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+74,M,4,Primaire,Veuve,camping,ingénieur,Fiat,2005,13,1,0,3,Vol,Collision frontale,Dommage mineur,Aucun,?,O,N
+68,M,1,Aucun,Marié,équitation,employé,Fiat,2018,18,1,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,?,N,N
+82,M,6,Secondaire,Marié,marche,ingénieur,Toyota,2020,11,3,2,1,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+77,F,3,Professionel,Divorcé,kayak,contremaître,Fiat,2017,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,O
+102,F,9,Secondaire,Concubinage,exercise,ingénieur,Fiat,1999,14,3,1,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,N,N
+31,F,6,Professionel,Divorcé,saut-élastique,ingénieur,Fiat,2018,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,OUI,O,N
+26,M,3,3ème cycle,Concubinage,chasse,contremaître,Chevrolet,2015,2,2,1,0,Stationnement,Collision arrière,Perte totale,Pompier,OUI,N,N
+27,F,9,Secondaire,Concubinage,exercise,commercant,Chevrolet,1999,8,3,1,3,Vol,?,Bris,Police,NON,N,N
+52,F,6,Baccalauréat,Divorcé,saut-élastique,agriculteur,Chevrolet,2017,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+77,F,2,3ème cycle,Concubinage,chasse,sans-emploi,Chevrolet,1999,2,3,1,0,Stationnement,Collision arrière,Perte totale,Autre,OUI,N,N
+72,M,8,Baccalauréat,Célibataire,jeux-vidéo,agriculteur,Peugeot,2020,16,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+66,F,5,Baccalauréat,Divorcé,saut-élastique,professeur,Peugeot,2017,7,2,0,1,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+91,M,2,Aucun,Concubinage,chasse,prof-médicale,Nissan,1999,4,1,0,2,Collision isolée,?,Bris,Pompier,?,N,N
+21,M,8,Primaire,Célibataire,parachutisme,cadre,Nissan,2018,1,1,0,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+22,M,5,3ème cycle,Veuve,camping,professeur,Accura,2015,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+47,M,1,Aucun,Célibataire,cross-fit,prof-médicale,Nissan,2018,18,1,2,1,Vol,Collision arrière,Perte totale,Pompier,?,N,O
+95,M,7,Aucun,Marié,marche,prof-médicale,Audi,2022,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,N,N
+79,F,3,Secondaire,Concubinage,jeux-plateau,chauffeur,Audi,2009,9,3,1,3,Vol,Collision frontale,Bris,Aucun,NON,O,N
+80,M,9,Secondaire,Divorcé,équitation,cadre,Audi,2020,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,O,O
+105,M,6,Professionel,Veuf,musique,sécurité,Peugeot,1999,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Aucun,OUI,N,N
+58,F,3,Baccalauréat,Divorcé,basketball,professeur,Audi,2021,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+53,M,9,3ème cycle,Divorcé,lecture,contremaître,Accura,2018,14,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+54,F,6,3ème cycle,Concubinage,cinéma,sécurité,Mercedes,2015,20,3,1,3,Vol,?,Bris,Autre,OUI,N,O
+102,M,2,3ème cycle,Veuve,chasse,sécurité,Accura,2016,14,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+32,M,8,Aucun,Célibataire,jeux-vidéo,prof-médicale,Accura,2005,4,2,0,3,Vol,?,Bris,Police,?,N,O
+57,M,5,3ème cycle,Veuve,camping,technicien,Nissan,2017,7,2,0,2,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+82,M,1,Aucun,Célibataire,cross-fit,sécurité,Volkswagen,2009,22,1,0,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+107,M,7,Primaire,Veuf,parachutisme,technicien,Volkswagen,2020,19,1,2,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,O,N
+108,M,5,Primaire,Veuve,camping,artisant,Volkswagen,2016,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,N
+31,M,1,Aucun,Veuf,cross-fit,contremaître,Volkswagen,2020,12,1,2,3,Vol,?,Bris,SAMU-SMUR,?,N,O
+86,M,7,Secondaire,Marié,marche,ingénieur,Volkswagen,2015,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,N
+81,F,4,Professionel,Marié,kayak,contremaître,Toyota,1999,0,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+82,M,1,Primaire,Veuf,lecture,commercant,Ford,2020,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+77,F,6,Secondaire,Concubinage,marche,artisant,Toyota,2015,21,3,2,3,Vol,Collision frontale,Bris,SAMU-SMUR,NON,O,N
+102,F,3,Professionel,Divorcé,basketball,commercant,Fiat,2022,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,O
+31,F,9,Secondaire,Concubinage,exercise,agriculteur,Fiat,2017,14,3,1,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,N,N
+33,M,6,Secondaire,Divorcé,marche,agriculteur,Fiat,1999,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,OUI,O,N
+81,F,2,3ème cycle,Concubinage,chasse,sans-emploi,Fiat,2018,8,3,1,2,Vol,?,Bris,Pompier,OUI,N,O
+106,F,8,Baccalauréat,Divorcé,golf,chauffeur,Fiat,2005,5,2,1,3,Vol,Collision frontale,Dommage mineur,Pompier,OUI,O,N
+100,M,6,3ème cycle,Divorcé,camping,sans-emploi,Suburu,2016,19,2,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,O,N
+61,M,2,Baccalauréat,Célibataire,cross-fit,professeur,Chevrolet,2005,23,2,0,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,O,N
+85,M,8,3ème cycle,Veuve,parachutisme,prof-médicale,Saab,2019,19,2,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,O,N
+80,M,4,Aucun,Célibataire,jeu-échecs,ouvrier,Chevrolet,2016,10,1,0,0,Stationnement,Collision arrière,Perte totale,Autre,?,N,N
+82,M,2,Baccalauréat,Célibataire,cross-fit,technicien,BMW,1999,0,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,N,O
+76,M,7,Primaire,Veuve,parachutisme,cadre,Peugeot,2021,7,2,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+101,M,4,Aucun,Célibataire,jeu-échecs,sécurité,BMW,2005,4,1,0,2,Collision isolée,?,Bris,Pompier,?,N,N
+54,M,1,Secondaire,Veuve,danse,ingénieur,BMW,2019,15,1,2,1,Collision multiple,Collision coté,Dommage majeur,Aucun,NON,O,N
+56,M,7,Aucun,Marié,marche,contremaître,Nissan,2016,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,O,N
+50,M,3,Professionel,Veuf,kayak,sécurité,Nissan,2005,12,1,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+105,M,9,Secondaire,Marié,équitation,ingénieur,Audi,2009,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,O,N
+35,M,6,Professionel,Veuf,musique,employé,Audi,2022,12,1,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+30,F,3,Secondaire,Concubinage,chasse,ingénieur,Mercedes,2019,2,3,1,1,Collision multiple,Collision coté,Perte totale,Autre,NON,N,N
+54,F,9,Professionel,Divorcé,golf,ingénieur,Mercedes,2009,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+49,M,6,Professionel,Veuf,musique,sans-emploi,Honda,2022,14,2,1,0,Stationnement,Collision arrière,Perte totale,Aucun,OUI,N,N
+50,F,3,Secondaire,Concubinage,chasse,commercant,Toyota,2019,20,3,1,3,Vol,?,Bris,Pompier,NON,N,O
+75,F,9,Baccalauréat,Divorcé,golf,agriculteur,Honda,2022,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,O
+17,M,5,3ème cycle,Veuve,camping,sans-emploi,Nissan,2018,4,1,0,2,Stationnement,?,Bris,Pompier,?,N,N
+65,M,1,Primaire,Veuf,lecture,ingénieur,Nissan,2009,18,1,2,1,Collision multiple,Collision coté,Perte totale,Pompier,?,N,N
+32,M,5,Primaire,Divorcé,camping,technicien,Accura,2016,19,1,0,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+69,M,1,Secondaire,Veuve,équitation,cadre,BMW,2022,9,1,2,2,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+106,F,6,Baccalauréat,Marié,saut-élastique,professeur,Fiat,2021,23,3,1,1,Collision isolée,Collision coté,Dommage majeur,Pompier,OUI,O,N
+62,F,9,Secondaire,Concubinage,exercise,cadre,Accura,2016,17,3,2,3,Collision multiple,Collision coté,Perte totale,Autre,NON,N,N
+103,M,7,Primaire,Veuf,musique,technicien,Toyota,2009,6,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,N,N
+81,M,1,Professionel,Veuf,lecture,employé,Volkswagen,2020,0,1,2,3,Vol,?,Bris,SAMU-SMUR,NON,N,O
+65,F,6,Professionel,Veuf,musique,commercant,Audi,2020,0,3,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+37,F,2,3ème cycle,Concubinage,chasse,employé,Chevrolet,2017,14,3,1,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+74,M,7,Aucun,Célibataire,jeux-vidéo,contremaître,Ford,2009,4,2,0,2,Vol,?,Bris,Aucun,?,N,O
+88,M,1,Aucun,Marié,équitation,artisant,Audi,2017,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+61,M,5,3ème cycle,Veuve,cinéma,sécurité,Chevrolet,2005,2,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
+23,F,6,Secondaire,Concubinage,cinéma,professeur,Fiat,1999,2,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,N,N
+69,F,6,Secondaire,Concubinage,cinéma,commercant,Accura,2021,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Autre,NON,N,N
+59,F,8,Baccalauréat,Concubinage,golf,ouvrier,Audi,2009,20,3,1,2,Vol,?,Bris,Police,OUI,N,N
+51,M,1,Primaire,Veuf,lecture,sans-emploi,Volkswagen,2022,0,1,2,3,Vol,?,Bris,SAMU-SMUR,NON,N,O
+48,M,4,Primaire,Veuve,camping,ingénieur,Honda,2022,7,2,0,1,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+73,M,1,Aucun,Célibataire,cross-fit,employé,Volkswagen,2017,4,1,0,2,Collision isolée,?,Bris,Police,?,N,N
+98,M,6,Secondaire,Marié,marche,technicien,Volkswagen,2020,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+28,M,4,Aucun,Marié,jeux-plateau,commercant,Toyota,2016,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+22,M,9,Professionel,Veuf,lecture,employé,Ford,2009,12,1,2,2,Vol,?,Bris,SAMU-SMUR,NON,N,O
+80,M,9,Secondaire,Marié,équitation,cadre,Nissan,2009,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Autre,NON,O,N
+75,F,7,Professionel,Marié,saut-élastique,employé,Mercedes,2020,0,3,1,0,Collision isolée,?,Dommage majeur,Autre,NON,N,N
+99,F,4,Secondaire,Concubinage,chasse,cadre,Mercedes,2016,20,3,1,3,Vol,?,Bris,Autre,NON,N,O
+29,F,9,Professionel,Divorcé,golf,cadre,Mercedes,2022,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+84,F,6,Secondaire,Concubinage,cinéma,contremaître,Accura,2015,20,3,1,3,Vol,?,Bris,Autre,NON,N,O
+109,F,3,Baccalauréat,Divorcé,basketball,ingénieur,Accura,2020,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+39,F,8,3ème cycle,Concubinage,exercise,employé,Peugeot,2020,14,3,1,3,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+23,M,5,3ème cycle,Veuve,camping,employé,Nissan,2016,15,2,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,O,N
+47,M,2,Baccalauréat,Célibataire,cross-fit,employé,BMW,2018,12,1,0,3,Vol,?,Bris,Pompier,NON,O,N
+96,M,7,Aucun,Marié,marche,employé,Honda,2015,2,3,1,2,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+80,F,2,Baccalauréat,Divorcé,basketball,cadre,Volkswagen,2018,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,N,O
+64,M,8,Baccalauréat,Célibataire,jeux-vidéo,cadre,Volkswagen,1999,6,1,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,N,N
+81,M,5,3ème cycle,Veuve,camping,cadre,Volkswagen,2017,10,1,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,?,N,O
+106,M,1,Professionel,Célibataire,lecture,sécurité,Volkswagen,2009,0,1,2,3,Vol,?,Bris,Pompier,NON,N,N
+108,M,7,Primaire,Veuf,parachutisme,cadre,Ford,2022,7,1,2,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+102,M,4,Secondaire,Marié,jeux-plateau,professeur,Ford,2017,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+32,M,9,Professionel,Veuf,lecture,prof-médicale,Ford,2009,18,1,2,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+34,M,7,Primaire,Veuf,musique,ingénieur,Fiat,2021,0,1,2,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+28,M,3,Secondaire,Marié,jeux-plateau,technicien,Saab,2019,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+53,M,9,Professionel,Veuf,lecture,contremaître,Saab,2009,12,3,2,2,Collision isolée,?,Bris,Police,NON,N,N
+47,F,7,Secondaire,Veuf,musique,agriculteur,Renault,2021,2,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,N,N
+49,M,3,Secondaire,Marié,jeux-plateau,artisant,BMW,2019,9,1,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+44,F,9,Professionel,Divorcé,golf,employé,Audi,2015,23,3,1,2,Collision isolée,?,Dommage majeur,Aucun,NON,O,N
+68,F,6,Secondaire,Concubinage,cinéma,employé,Audi,2021,20,3,1,3,Vol,?,Bris,Aucun,OUI,N,N
+70,M,2,Secondaire,Divorcé,jeux-plateau,artisant,Chevrolet,2018,10,2,0,1,Stationnement,Collision frontale,Perte totale,Pompier,OUI,N,N
+107,F,8,Baccalauréat,Divorcé,golf,agriculteur,BMW,2015,17,2,1,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+101,M,5,3ème cycle,Veuve,camping,commercant,BMW,2021,7,2,0,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,OUI,O,N
+85,M,1,Primaire,Veuve,danse,artisant,BMW,2009,1,1,0,3,Vol,Collision frontale,Dommage mineur,Autre,?,O,N
+79,M,8,3ème cycle,Veuve,parachutisme,ouvrier,Saab,2017,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+40,M,4,Primaire,Veuf,kayak,agriculteur,Saab,2021,15,1,2,2,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+88,F,1,Professionel,Marié,lecture,ouvrier,Saab,2016,12,1,2,2,Stationnement,Collision arrière,Dommage mineur,Police,NON,N,N
+18,F,7,Secondaire,Veuf,cinéma,artisant,Renault,1999,2,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,O,N
+73,F,3,Professionel,Divorcé,kayak,sans-emploi,Renault,2016,6,3,1,0,Stationnement,Collision arrière,Dommage mineur,Police,NON,N,O
+98,F,9,Secondaire,Concubinage,exercise,chauffeur,Chevrolet,2022,2,3,1,1,Collision multiple,Collision coté,Perte totale,Police,NON,N,N
+27,F,6,Professionel,Divorcé,saut-élastique,chauffeur,Chevrolet,2016,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+22,M,2,3ème cycle,Concubinage,chasse,sans-emploi,Peugeot,2009,14,2,1,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+23,F,9,Secondaire,Concubinage,exercise,prof-médicale,Peugeot,2021,4,2,1,3,Vol,?,Bris,SAMU-SMUR,NON,N,O
+72,M,5,3ème cycle,Veuve,camping,ouvrier,BMW,1999,7,2,1,0,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,N,N
+55,M,1,Primaire,Veuve,danse,chauffeur,Chevrolet,2016,1,1,0,3,Vol,Collision frontale,Dommage mineur,Autre,?,O,N
+50,M,8,Aucun,Veuve,marche,sécurité,BMW,1999,15,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,O,N
+51,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,Peugeot,2021,22,2,0,0,Stationnement,Collision arrière,Perte totale,Pompier,?,N,N
+46,M,1,Primaire,Veuf,lecture,professeur,Nissan,2017,12,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+70,M,7,Aucun,Marié,marche,professeur,Fiat,2021,9,1,1,2,Stationnement,Collision frontale,Dommage mineur,Pompier,OUI,O,N
+43,F,3,Professionel,Divorcé,kayak,prof-médicale,Accura,1999,20,3,1,2,Vol,?,Bris,Pompier,OUI,N,N
+33,F,7,Secondaire,Veuf,cinéma,technicien,Renault,2016,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Police,NON,O,N
+88,F,3,Professionel,Divorcé,kayak,employé,Renault,2017,0,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+41,M,8,Baccalauréat,Divorcé,golf,technicien,Suburu,2020,11,2,1,3,Collision multiple,Collision coté,Dommage majeur,Pompier,OUI,O,N
+96,F,5,3ème cycle,Concubinage,cinéma,employé,Suburu,2018,14,2,1,0,Stationnement,Collision arrière,Perte totale,Pompier,OUI,N,N
+91,M,2,Baccalauréat,Célibataire,cross-fit,ingénieur,Chevrolet,2009,4,2,0,3,Vol,Collision frontale,Bris,Pompier,OUI,N,N
+63,M,6,Primaire,Marié,parachutisme,cadre,Mercedes,2015,21,1,2,0,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+111,M,4,Professionel,Veuf,kayak,sécurité,Accura,2017,15,3,2,1,Collision multiple,Collision frontale,Bris,Autre,NON,O,N
+30,F,8,Professionel,Veuve,exercise,chauffeur,Saab,2019,16,1,0,2,Collision isolée,?,Bris,Aucun,?,N,N
+25,M,5,Baccalauréat,Célibataire,jeu-échecs,cadre,Renault,2016,22,3,2,0,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+29,F,6,Secondaire,Concubinage,cinéma,professeur,Audi,2005,3,3,1,1,Collision multiple,Collision coté,Perte totale,Aucun,NON,O,N
+23,F,3,Baccalauréat,Divorcé,basketball,chauffeur,Audi,2021,17,3,1,3,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+78,F,9,Secondaire,Concubinage,exercise,prof-médicale,Audi,2009,20,3,1,3,Vol,?,Bris,Aucun,OUI,N,N
+103,M,4,Aucun,Célibataire,jeu-échecs,sans-emploi,Chevrolet,2005,4,2,0,2,Collision isolée,?,Bris,Autre,?,N,N
+87,M,2,Baccalauréat,Célibataire,cross-fit,cadre,BMW,2020,10,2,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,OUI,O,N
+81,M,7,Primaire,Veuve,parachutisme,professeur,Peugeot,2018,1,2,0,3,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,N
+83,M,5,3ème cycle,Veuve,camping,contremaître,Nissan,2005,16,1,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,N,N
+100,M,2,Baccalauréat,Célibataire,cross-fit,ingénieur,Nissan,2020,12,1,2,3,Vol,?,Bris,Pompier,?,N,N
+102,M,7,Primaire,Veuve,parachutisme,technicien,Accura,2018,19,1,0,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+97,M,5,Aucun,Veuve,jeux-plateau,sécurité,Volkswagen,2009,9,1,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,?,O,O
+26,M,1,Primaire,Veuf,lecture,sécurité,Volkswagen,2020,6,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+28,M,7,Primaire,Veuve,parachutisme,artisant,Toyota,2018,13,1,0,3,Vol,Collision frontale,Dommage mineur,Police,?,O,N
+22,M,4,Aucun,Marié,jeux-plateau,ingénieur,Ford,2009,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+24,M,1,Aucun,Célibataire,cross-fit,sans-emploi,Fiat,2022,18,1,0,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+49,M,7,Primaire,Veuf,parachutisme,chauffeur,Fiat,2017,15,3,2,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,O,N
+43,M,4,Secondaire,Marié,jeux-plateau,agriculteur,Saab,2009,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Aucun,NON,O,N
+38,F,1,Professionel,Marié,lecture,prof-médicale,Renault,2022,12,3,2,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+63,F,7,Secondaire,Concubinage,cinéma,agriculteur,Renault,2016,9,3,1,3,Vol,Collision frontale,Bris,Police,NON,O,N
+64,M,3,Secondaire,Marié,jeux-plateau,professeur,BMW,2009,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Aucun,NON,O,N
+59,F,9,Professionel,Divorcé,lecture,ouvrier,Audi,2021,6,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,N,O
+84,F,6,Secondaire,Concubinage,marche,cadre,Peugeot,2009,9,3,2,3,Vol,Collision frontale,Bris,Aucun,NON,O,N
+108,F,3,Professionel,Divorcé,basketball,professeur,Audi,2022,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+103,F,9,Professionel,Veuf,lecture,contremaître,Accura,2019,14,2,1,0,Stationnement,Collision arrière,Perte totale,Police,OUI,N,N
+104,F,6,Secondaire,Concubinage,cinéma,sécurité,Mercedes,2016,20,3,1,3,Vol,?,Bris,Autre,NON,N,O
+58,M,3,3ème cycle,Divorcé,danse,employé,Accura,2019,7,2,0,2,Collision isolée,?,Dommage majeur,Police,OUI,O,N
+59,F,8,3ème cycle,Concubinage,exercise,contremaître,Mercedes,2017,14,3,1,0,Stationnement,Collision arrière,Perte totale,Aucun,OUI,N,N
+54,M,5,Baccalauréat,Célibataire,jeu-échecs,technicien,Honda,2005,4,2,0,3,Vol,Collision frontale,Bris,Aucun,OUI,O,N
+78,M,2,3ème cycle,Veuve,danse,technicien,Honda,2019,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+80,F,8,3ème cycle,Concubinage,exercise,commercant,Ford,2016,8,2,1,2,Collision isolée,?,Bris,Police,OUI,N,N
+74,M,5,Baccalauréat,Célibataire,jeu-échecs,artisant,Suburu,2005,22,2,0,1,Collision multiple,Collision coté,Perte totale,Autre,OUI,N,N
+69,M,2,Baccalauréat,Divorcé,basketball,chauffeur,Suburu,2021,13,1,0,3,Vol,Collision frontale,Dommage mineur,Aucun,?,O,N
+94,M,8,Aucun,Veuve,jeux-vidéo,ouvrier,Saab,2016,10,1,0,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,O
+95,M,5,Baccalauréat,Célibataire,jeu-échecs,sans-emploi,Chevrolet,2005,16,2,0,3,Vol,?,Bris,Pompier,?,N,N
+90,M,1,Primaire,Veuve,danse,agriculteur,BMW,2021,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Autre,?,O,N
+91,M,8,3ème cycle,Veuve,parachutisme,professeur,BMW,2015,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+21,M,5,Aucun,Célibataire,jeu-échecs,prof-médicale,BMW,1999,10,2,0,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+111,M,1,Primaire,Veuf,danse,professeur,Nissan,2021,1,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+40,M,8,3ème cycle,Veuve,parachutisme,technicien,Nissan,2017,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+35,M,4,Professionel,Célibataire,jeu-échecs,contremaître,Nissan,1999,12,1,2,2,Vol,?,Bris,Autre,NON,N,N
+37,M,1,Primaire,Veuf,lecture,technicien,Volkswagen,2020,19,1,2,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,O,N
+31,M,6,Secondaire,Marié,marche,cadre,Volkswagen,2017,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,N
+33,M,4,Aucun,Marié,jeu-échecs,employé,Toyota,2009,16,1,2,2,Collision isolée,?,Dommage majeur,Police,?,N,N
+58,M,1,Primaire,Veuf,lecture,artisant,Toyota,2019,12,1,2,3,Vol,Collision frontale,Bris,Police,?,N,O
+52,M,6,Secondaire,Marié,marche,ingénieur,Ford,2017,3,1,2,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+54,M,4,Aucun,Marié,jeux-plateau,sans-emploi,Fiat,2005,17,3,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,N
+48,M,9,Professionel,Veuf,lecture,commercant,Saab,2022,0,1,2,2,Vol,?,Bris,Police,NON,N,O
+73,M,6,Secondaire,Marié,marche,agriculteur,Renault,2017,21,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+67,F,4,Professionel,Divorcé,basketball,commercant,Renault,2005,11,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,O,N
+69,M,9,Professionel,Veuf,lecture,ouvrier,BMW,2022,18,3,2,0,Stationnement,Collision arrière,Perte totale,Aucun,NON,N,N
+94,F,6,Secondaire,Concubinage,marche,professeur,Peugeot,2017,15,3,2,1,Collision multiple,Collision coté,Perte totale,Aucun,NON,O,N
+88,F,3,Professionel,Divorcé,basketball,chauffeur,Audi,2005,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+18,F,8,3ème cycle,Concubinage,exercise,ouvrier,Audi,2019,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Police,OUI,N,N
+20,F,6,Secondaire,Concubinage,marche,technicien,Audi,2009,17,2,1,1,Vol,Collision frontale,Bris,Police,OUI,O,N
+38,M,3,Professionel,Divorcé,basketball,contremaître,Accura,2021,13,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,O,N
+39,F,8,3ème cycle,Concubinage,exercise,sécurité,Mercedes,2019,20,3,1,2,Collision isolée,?,Bris,Aucun,OUI,N,N
+34,M,5,Baccalauréat,Célibataire,jeu-échecs,cadre,Honda,2015,10,2,0,1,Collision multiple,Collision coté,Perte totale,Aucun,OUI,O,N
+35,F,2,Baccalauréat,Divorcé,basketball,ingénieur,Honda,2005,17,3,1,3,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+83,M,8,Aucun,Célibataire,jeux-vidéo,sécurité,Honda,2016,4,2,0,3,Vol,?,Bris,Aucun,?,N,O
+85,M,5,Baccalauréat,Célibataire,saut-élastique,artisant,Ford,2005,11,2,0,1,Collision multiple,Collision coté,Perte totale,Police,OUI,O,N
+79,M,2,3ème cycle,Veuve,danse,ingénieur,Suburu,2021,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Autre,?,O,N
+74,M,8,3ème cycle,Veuve,exercise,sans-emploi,Saab,2018,16,1,0,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+99,M,5,Primaire,Célibataire,jeu-échecs,chauffeur,Saab,1999,13,1,2,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+100,M,1,Primaire,Veuve,danse,agriculteur,Chevrolet,2021,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Autre,?,O,N
+95,M,7,Aucun,Marié,jeux-vidéo,commercant,BMW,2017,10,1,2,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,N,N
+25,M,4,Primaire,Veuf,kayak,agriculteur,BMW,1999,6,1,2,1,Collision multiple,Collision coté,Perte totale,Autre,?,N,N
+26,M,1,Primaire,Veuve,danse,professeur,BMW,2018,13,2,0,3,Vol,Collision frontale,Dommage mineur,Pompier,?,O,N
+51,M,7,Aucun,Célibataire,jeux-vidéo,prof-médicale,Audi,2015,18,1,0,0,Stationnement,Collision arrière,Perte totale,Aucun,?,N,N
+45,M,4,Primaire,Veuf,kayak,ouvrier,Nissan,1999,0,1,2,3,Vol,?,Bris,Pompier,?,N,N
+70,M,1,Secondaire,Marié,équitation,professeur,Nissan,2018,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,N
+65,F,7,Professionel,Marié,musique,contremaître,Mercedes,2015,12,3,1,2,Collision isolée,?,Dommage majeur,Autre,NON,N,N
+66,M,4,Primaire,Veuf,kayak,sécurité,Mercedes,2020,18,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+19,F,9,Professionel,Divorcé,golf,professeur,Audi,2020,12,3,1,0,Collision isolée,?,Dommage majeur,Autre,OUI,N,N
+98,M,5,Baccalauréat,Divorcé,saut-élastique,professeur,Accura,2017,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,Police,OUI,O,N
+99,F,3,Professionel,Divorcé,basketball,technicien,Accura,2005,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,NON,O,O
+29,M,8,Baccalauréat,Divorcé,golf,technicien,Nissan,2015,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,Police,OUI,O,N
+36,M,4,Aucun,Célibataire,jeu-échecs,prof-médicale,Peugeot,2019,10,1,0,0,Stationnement,Collision arrière,Perte totale,Pompier,?,N,N
+38,M,2,Baccalauréat,Célibataire,cross-fit,ingénieur,Nissan,2015,0,1,0,3,Vol,Collision frontale,Bris,Pompier,?,N,N
+32,M,7,Primaire,Veuve,parachutisme,technicien,Accura,2005,7,2,0,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+27,M,5,Aucun,Veuve,jeux-plateau,commercant,Volkswagen,2020,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,?,N,O
+51,M,2,Primaire,Veuf,lecture,sécurité,Volkswagen,2015,18,1,2,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+53,M,7,Primaire,Veuve,parachutisme,artisant,Ford,2005,1,1,0,3,Vol,Collision frontale,Dommage mineur,Police,?,O,N
+78,M,4,Aucun,Marié,jeu-échecs,commercant,Toyota,2019,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+72,M,1,Primaire,Veuf,lecture,employé,Ford,2015,12,1,2,3,Vol,?,Bris,Police,NON,N,O
+97,M,6,Secondaire,Marié,marche,artisant,Ford,2021,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,NON,O,N
+99,M,4,Aucun,Marié,jeux-plateau,ouvrier,Fiat,2017,0,3,1,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,NON,N,N
+93,M,9,Professionel,Veuf,lecture,sans-emploi,Saab,2015,6,1,2,0,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+23,M,6,Secondaire,Marié,marche,chauffeur,Saab,2021,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Police,NON,O,N
+48,F,3,Professionel,Veuf,kayak,ouvrier,Renault,2016,0,3,2,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+42,F,9,Secondaire,Concubinage,exercise,sans-emploi,Renault,1999,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Police,OUI,N,N
+44,F,6,Secondaire,Marié,marche,cadre,Peugeot,2020,21,3,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+69,F,3,Professionel,Divorcé,kayak,sécurité,Peugeot,2009,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,O
+94,F,9,Secondaire,Concubinage,exercise,technicien,Peugeot,2020,22,2,1,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,NON,N,N
+88,F,5,Baccalauréat,Divorcé,saut-élastique,cadre,Audi,2018,5,3,1,3,Vol,Collision frontale,Dommage mineur,Police,OUI,O,N
+18,F,2,3ème cycle,Concubinage,chasse,sécurité,Accura,2005,2,2,1,0,Stationnement,Collision arrière,Perte totale,Police,OUI,N,N
+107,M,9,Baccalauréat,Concubinage,jeux-vidéo,employé,Accura,2020,16,2,0,3,Vol,?,Bris,Police,OUI,N,O
+109,F,5,Baccalauréat,Divorcé,saut-élastique,ingénieur,Honda,2018,23,2,1,1,Collision multiple,Collision coté,Dommage majeur,Aucun,OUI,O,N
+103,M,2,3ème cycle,Veuve,danse,contremaître,Honda,2009,13,2,0,0,Stationnement,Collision arrière,Dommage mineur,Aucun,OUI,O,N
+33,M,8,Baccalauréat,Célibataire,jeux-vidéo,contremaître,Honda,2020,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+58,M,1,Primaire,Veuve,camping,ingénieur,Chevrolet,2017,12,3,1,0,Collision isolée,Collision arrière,Dommage majeur,Autre,NON,N,N
+46,M,1,Primaire,Marié,danse,technicien,Renault,2019,9,3,2,2,Collision isolée,?,Perte totale,Aucun,OUI,O,N
+25,M,5,3ème cycle,Célibataire,jeu-échecs,chauffeur,Renault,1999,19,2,0,1,Collision multiple,Collision frontale,Bris,SAMU-SMUR,?,O,N
+21,F,8,Secondaire,Divorcé,jeux-vidéo,technicien,Renault,2022,3,1,2,0,Collision isolée,Collision coté,Dommage majeur,Aucun,NON,O,N
+29,M,4,Professionel,Veuf,kayak,ouvrier,Suburu,2020,20,3,1,3,Collision multiple,Collision arrière,Perte totale,Autre,NON,O,N
+90,M,8,Baccalauréat,Célibataire,jeux-vidéo,artisant,Suburu,2005,17,2,1,3,Collision multiple,Collision frontale,Dommage mineur,Autre,OUI,O,N
+50,M,5,Aucun,Célibataire,jeu-échecs,commercant,Accura,2021,10,2,0,3,Collision multiple,Collision arrière,Perte totale,Aucun,?,O,N
+57,M,1,Aucun,Marié,équitation,employé,Suburu,2020,4,1,0,1,Stationnement,Collision arrière,Dommage majeur,SAMU-SMUR,?,O,N
+107,M,4,Secondaire,Marié,jeux-plateau,ouvrier,Fiat,2017,18,1,1,3,Stationnement,?,Bris,Aucun,NON,N,N
+20,M,8,Baccalauréat,Divorcé,golf,artisant,Renault,2019,16,1,0,0,Vol,Collision frontale,Bris,Police,?,N,O
+28,F,3,Secondaire,Divorcé,jeux-plateau,cadre,Toyota,2019,9,3,1,3,Collision multiple,Collision coté,Bris,Police,OUI,N,N
+45,M,1,Baccalauréat,Veuf,danse,technicien,Mercedes,2020,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Police,?,N,N
+95,F,6,Professionel,Concubinage,musique,sécurité,Volkswagen,2005,17,2,0,0,Vol,Collision frontale,Bris,SAMU-SMUR,?,N,N
+61,F,9,Secondaire,Concubinage,exercise,ingénieur,Accura,2005,3,3,2,1,Vol,Collision coté,Perte totale,Autre,NON,O,N
+109,F,6,Professionel,Divorcé,saut-élastique,ingénieur,Accura,2016,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+64,M,1,Primaire,Veuve,danse,technicien,Ford,2005,7,1,0,1,Collision multiple,Collision coté,Dommage majeur,Aucun,?,O,N
+47,M,7,Professionel,Veuf,musique,prof-médicale,Toyota,2016,15,3,1,1,Vol,Collision coté,Perte totale,Pompier,NON,O,N
+31,F,3,Professionel,Divorcé,basketball,prof-médicale,Toyota,2022,11,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,O,N
+32,M,8,Professionel,Divorcé,lecture,professeur,Accura,2021,5,3,1,2,Vol,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+39,F,4,3ème cycle,Veuve,jeu-échecs,cadre,Peugeot,2018,19,2,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+76,M,1,Aucun,Célibataire,cross-fit,ouvrier,Nissan,2016,16,1,0,2,Collision isolée,?,Bris,Pompier,?,N,N
+101,M,7,Primaire,Veuf,parachutisme,professeur,Fiat,2019,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Autre,NON,N,O
+73,M,3,Secondaire,Marié,jeux-plateau,professeur,Fiat,2016,17,3,2,3,Vol,Collision frontale,Dommage mineur,Pompier,OUI,O,N
+68,F,9,Professionel,Divorcé,golf,ouvrier,Suburu,2016,23,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+105,M,5,3ème cycle,Célibataire,cinéma,commercant,Honda,2017,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+58,M,2,Primaire,Célibataire,danse,professeur,Ford,2009,1,1,2,3,Vol,Collision frontale,Bris,Police,?,O,N
+59,M,8,3ème cycle,Célibataire,marche,sans-emploi,Volkswagen,2015,18,1,2,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,N,N
+43,M,4,Primaire,Veuf,camping,chauffeur,Ford,2005,1,1,2,3,Vol,Collision frontale,Bris,Police,?,O,N
+37,M,1,Secondaire,Marié,équitation,agriculteur,Toyota,2018,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+62,M,6,Professionel,Veuf,musique,sans-emploi,Ford,2015,12,1,2,2,Vol,?,Bris,SAMU-SMUR,NON,N,O
+64,M,4,Primaire,Veuf,kayak,cadre,Fiat,2022,19,1,2,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,O,N
+58,M,9,Secondaire,Marié,équitation,professeur,Saab,2020,9,1,2,3,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+83,M,6,Professionel,Veuf,musique,prof-médicale,Saab,2015,6,3,2,0,Stationnement,Collision arrière,Perte totale,Police,NON,N,N
+78,F,4,Secondaire,Veuf,chasse,ingénieur,Renault,2022,20,3,1,3,Vol,Collision frontale,Bris,Police,NON,N,O
+38,F,9,Professionel,Divorcé,golf,sécurité,Renault,2015,0,3,1,2,Collision isolée,?,Dommage majeur,Police,NON,N,N
+86,M,6,Baccalauréat,Célibataire,saut-élastique,professeur,Chevrolet,2019,11,2,1,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,O,N
+111,M,2,3ème cycle,Veuve,danse,prof-médicale,Chevrolet,2005,7,2,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,N,N
+17,F,8,3ème cycle,Concubinage,exercise,contremaître,Chevrolet,2021,14,3,1,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+107,M,5,Baccalauréat,Célibataire,saut-élastique,technicien,Peugeot,2018,5,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,O,N
+36,M,2,3ème cycle,Veuve,danse,contremaître,Peugeot,2005,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,OUI,O,N
+61,M,8,Baccalauréat,Célibataire,jeux-vidéo,contremaître,BMW,2016,13,1,0,3,Vol,Collision frontale,Bris,Autre,?,O,N
+109,M,5,3ème cycle,Veuve,camping,commercant,BMW,2022,9,1,2,0,Stationnement,Collision arrière,Dommage mineur,Autre,?,O,O
+111,M,1,Aucun,Célibataire,cross-fit,employé,Peugeot,2020,16,1,0,2,Collision isolée,?,Bris,Pompier,?,N,N
+106,M,8,Primaire,Veuf,musique,ingénieur,Nissan,2016,6,1,2,1,Collision multiple,Collision coté,Perte totale,Pompier,?,N,N
+35,M,4,Aucun,Marié,jeux-plateau,ingénieur,Nissan,2022,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+37,M,1,Aucun,Célibataire,cross-fit,sans-emploi,Mercedes,2019,10,1,0,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+31,M,7,Primaire,Veuf,musique,commercant,Volkswagen,2016,0,1,2,3,Vol,?,Bris,SAMU-SMUR,?,N,N
+33,M,4,Primaire,Veuve,camping,professeur,Toyota,2005,15,3,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+81,M,9,Professionel,Veuf,lecture,sans-emploi,Volkswagen,2017,18,1,2,0,Stationnement,Collision arrière,Perte totale,Pompier,NON,N,N
+34,F,6,Secondaire,Marié,marche,professeur,Mercedes,2020,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+36,F,3,Professionel,Divorcé,kayak,ouvrier,Toyota,2017,12,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+30,F,1,3ème cycle,Concubinage,exercise,sans-emploi,Toyota,1999,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,N,N
+55,F,5,Baccalauréat,Divorcé,saut-élastique,chauffeur,Toyota,2020,23,3,1,1,Collision isolée,Collision coté,Dommage majeur,Autre,OUI,O,N
+57,F,3,Professionel,Divorcé,basketball,sécurité,Suburu,2016,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,O
+81,F,8,Baccalauréat,Célibataire,golf,professeur,Honda,2018,23,3,1,1,Vol,Collision coté,Dommage majeur,Autre,OUI,O,N
+35,M,5,3ème cycle,Veuve,camping,prof-médicale,Suburu,2005,13,2,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,OUI,N,N
+59,M,2,Baccalauréat,Célibataire,cross-fit,prof-médicale,Suburu,2021,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,OUI,N,N
+54,M,8,Baccalauréat,Divorcé,golf,ingénieur,Saab,2018,1,1,0,3,Vol,Collision frontale,Dommage mineur,Aucun,?,O,N
+55,M,5,3ème cycle,Veuve,camping,contremaître,Chevrolet,2015,7,2,0,2,Collision isolée,?,Dommage majeur,Pompier,OUI,O,N
+50,M,2,Baccalauréat,Célibataire,cross-fit,contremaître,Chevrolet,2021,4,2,0,3,Vol,?,Bris,Pompier,?,N,N
+75,M,7,Primaire,Veuf,parachutisme,technicien,BMW,2018,19,1,0,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+76,M,5,3ème cycle,Veuve,camping,artisant,BMW,2009,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,?,O,N
+71,M,1,Aucun,Célibataire,cross-fit,employé,Nissan,1999,16,1,0,2,Collision isolée,?,Bris,Pompier,?,N,N
+72,M,8,Baccalauréat,Célibataire,jeux-vidéo,sans-emploi,Nissan,2019,6,1,0,1,Collision multiple,Collision arrière,Perte totale,Pompier,OUI,N,O
+90,M,5,Primaire,Veuve,camping,chauffeur,Nissan,2009,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Pompier,NON,O,N
+50,M,1,Primaire,Veuf,lecture,commercant,Nissan,2018,6,1,2,1,Collision multiple,Collision arrière,Perte totale,Pompier,NON,N,N
+45,M,7,Secondaire,Veuve,marche,professeur,Mercedes,2015,21,3,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+46,M,4,Aucun,Marié,jeux-plateau,chauffeur,Volkswagen,1999,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,?,O,N
+30,F,9,Secondaire,Marié,équitation,chauffeur,Mercedes,2009,21,3,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+55,F,6,Professionel,Divorcé,musique,ouvrier,Accura,2019,18,3,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,NON,N,O
+80,F,3,Secondaire,Concubinage,chasse,professeur,Accura,2005,14,3,1,1,Collision multiple,Collision coté,Perte totale,Autre,NON,N,N
+104,F,9,Professionel,Divorcé,golf,professeur,Accura,2019,11,3,1,2,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+99,M,5,3ème cycle,Concubinage,cinéma,ouvrier,Honda,2017,2,2,1,0,Stationnement,Collision arrière,Perte totale,Aucun,OUI,N,N
+29,M,2,Baccalauréat,Célibataire,basketball,professeur,Honda,2022,23,2,0,1,Collision multiple,Collision coté,Perte totale,Aucun,OUI,O,N
+23,M,9,Primaire,Divorcé,parachutisme,technicien,Honda,2019,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+48,M,5,Aucun,Concubinage,jeu-échecs,ouvrier,Honda,2009,10,2,0,0,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+50,M,2,Baccalauréat,Célibataire,cross-fit,technicien,Ford,2018,16,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,O,N
+98,M,7,Aucun,Marié,jeux-vidéo,prof-médicale,Ford,2015,4,1,2,2,Collision isolée,?,Dommage majeur,Police,?,N,N
+99,M,5,Aucun,Célibataire,jeu-échecs,contremaître,Ford,2022,10,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,?,N,N
+94,M,1,Primaire,Veuf,danse,technicien,Saab,2020,1,1,0,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+24,M,7,Aucun,Marié,marche,contremaître,Saab,2009,22,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,N
+18,M,4,Aucun,Célibataire,jeu-échecs,commercant,Saab,2022,12,1,2,2,Vol,?,Bris,Police,NON,N,O
+43,M,1,Secondaire,Veuve,équitation,agriculteur,Saab,2017,9,3,2,3,Vol,Collision frontale,Dommage mineur,Police,NON,O,N
+45,M,7,Aucun,Marié,marche,commercant,BMW,2009,15,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,O,N
+69,M,4,Primaire,Veuf,kayak,commercant,BMW,2020,12,1,2,3,Vol,?,Bris,Autre,NON,N,N
+64,F,9,Secondaire,Marié,équitation,artisant,Audi,2017,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Aucun,NON,O,N
+65,M,7,Aucun,Marié,marche,chauffeur,Audi,2005,9,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,NON,O,N
+60,M,3,Professionel,Veuf,kayak,sans-emploi,Mercedes,2022,0,3,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+85,F,9,Secondaire,Concubinage,équitation,chauffeur,Mercedes,2017,21,3,1,3,Vol,Collision frontale,Bris,Autre,NON,O,N
+110,F,6,Professionel,Divorcé,saut-élastique,ouvrier,Mercedes,2022,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Autre,NON,N,O
+39,F,3,Secondaire,Concubinage,chasse,ouvrier,Mercedes,2017,14,3,1,1,Collision multiple,Collision arrière,Perte totale,Autre,NON,N,N
+88,M,9,3ème cycle,Divorcé,parachutisme,sans-emploi,Accura,2019,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,O,N
+17,M,5,Baccalauréat,Célibataire,jeu-échecs,sans-emploi,Accura,2015,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+19,F,2,Baccalauréat,Divorcé,basketball,cadre,Volkswagen,2005,5,2,1,3,Vol,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+108,M,8,3ème cycle,Veuve,parachutisme,professeur,Honda,2020,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,OUI,O,N
+38,M,5,Aucun,Célibataire,jeu-échecs,prof-médicale,Honda,2015,16,2,0,3,Vol,?,Bris,Aucun,?,N,N
+40,M,2,Baccalauréat,Célibataire,basketball,ingénieur,Ford,1999,7,1,1,1,Collision multiple,Collision coté,Perte totale,Police,?,O,N
+34,M,8,3ème cycle,Veuve,parachutisme,technicien,Suburu,2020,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Autre,?,O,N
+29,M,5,Aucun,Concubinage,jeu-échecs,commercant,Saab,2017,4,1,0,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+54,M,2,Primaire,Veuf,danse,technicien,Saab,2022,1,1,2,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+78,M,7,Aucun,Marié,marche,contremaître,Saab,2017,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,O,N
+92,M,3,Secondaire,Divorcé,basketball,sécurité,Peugeot,2021,11,3,1,0,Stationnement,Collision arrière,Perte totale,Police,OUI,O,N
+70,M,8,Primaire,Veuve,parachutisme,chauffeur,Chevrolet,1999,19,1,0,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+95,M,4,Aucun,Marié,jeu-échecs,ouvrier,BMW,2019,16,1,2,2,Collision isolée,?,Dommage majeur,Autre,?,N,N
+96,M,1,Aucun,Célibataire,cross-fit,sécurité,BMW,2016,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Pompier,?,N,N
+26,M,7,Primaire,Veuve,parachutisme,technicien,BMW,2022,19,2,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+21,M,4,Aucun,Marié,jeux-plateau,sécurité,Renault,1999,9,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,N,N
+99,M,9,Secondaire,Marié,équitation,cadre,BMW,2021,3,3,2,1,Collision multiple,Collision coté,Dommage majeur,Aucun,NON,O,N
+52,M,6,Professionel,Veuf,musique,contremaître,Renault,2005,14,3,1,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+54,F,3,Secondaire,Concubinage,chasse,technicien,Renault,2019,11,2,1,1,Vol,Collision frontale,Bris,Aucun,OUI,O,N
+78,F,9,Professionel,Divorcé,golf,contremaître,Audi,2016,17,3,1,0,Stationnement,Collision arrière,Dommage mineur,Aucun,NON,O,O
+103,F,6,Secondaire,Concubinage,cinéma,contremaître,Peugeot,2019,14,3,1,3,Collision multiple,Collision arrière,Perte totale,Aucun,OUI,O,N
+33,F,2,Baccalauréat,Divorcé,basketball,ingénieur,Peugeot,2017,11,3,1,1,Collision isolée,Collision coté,Dommage majeur,Police,OUI,O,N
+28,M,8,3ème cycle,Concubinage,exercise,employé,Peugeot,2022,8,2,1,2,Collision isolée,?,Bris,Police,OUI,N,N
+53,M,5,Baccalauréat,Célibataire,jeu-échecs,ingénieur,Accura,2019,22,2,0,1,Collision multiple,Collision coté,Perte totale,Police,OUI,N,N
+54,F,2,Baccalauréat,Divorcé,basketball,agriculteur,Accura,2016,13,2,1,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,N
+72,M,8,3ème cycle,Concubinage,exercise,sans-emploi,Nissan,2017,10,1,0,1,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+32,M,4,Primaire,Veuve,camping,artisant,Accura,2015,13,2,0,3,Vol,Collision frontale,Dommage mineur,SAMU-SMUR,?,O,N
+27,M,2,Aucun,Veuve,équitation,ouvrier,Volkswagen,2022,3,1,2,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,O,N
+28,M,7,Aucun,Veuve,jeux-vidéo,employé,Nissan,2005,21,3,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+107,M,4,Aucun,Marié,jeux-plateau,sans-emploi,Volkswagen,2021,3,1,2,2,Collision isolée,?,Dommage majeur,SAMU-SMUR,?,O,N
+101,M,9,Professionel,Veuf,lecture,commercant,Volkswagen,2018,18,1,2,0,Stationnement,Collision arrière,Perte totale,Pompier,NON,N,N
+31,F,6,Secondaire,Marié,marche,agriculteur,Toyota,2005,15,3,2,1,Collision multiple,Collision coté,Dommage majeur,Pompier,NON,O,N
+56,F,3,Professionel,Divorcé,kayak,sans-emploi,Toyota,2018,12,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+57,M,1,Professionel,Veuf,lecture,prof-médicale,Toyota,2015,2,3,2,1,Collision multiple,Collision arrière,Perte totale,Autre,OUI,N,N
+75,F,6,Secondaire,Marié,marche,cadre,Toyota,2021,23,3,1,1,Collision multiple,Collision coté,Dommage majeur,Autre,OUI,O,N
+77,F,3,Professionel,Divorcé,basketball,prof-médicale,Fiat,2018,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,N,O
+30,M,9,Baccalauréat,Concubinage,golf,chauffeur,Suburu,2021,17,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,O,N
+31,F,6,Baccalauréat,Divorcé,saut-élastique,cadre,Fiat,2019,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,SAMU-SMUR,OUI,O,N
+26,M,2,3ème cycle,Veuve,chasse,prof-médicale,Chevrolet,2016,14,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
+51,M,8,Baccalauréat,Célibataire,jeux-vidéo,cadre,Chevrolet,2021,10,2,0,1,Collision multiple,Collision coté,Perte totale,Pompier,OUI,O,N
+52,F,5,Baccalauréat,Divorcé,saut-élastique,ingénieur,Chevrolet,2018,1,3,1,3,Stationnement,Collision frontale,Dommage mineur,Autre,OUI,O,O
+77,F,2,3ème cycle,Concubinage,chasse,employé,BMW,2005,22,1,1,0,Stationnement,Collision arrière,Perte totale,Autre,?,N,N
+71,M,8,Baccalauréat,Célibataire,jeux-vidéo,ingénieur,Peugeot,2021,4,2,0,3,Vol,Collision frontale,Bris,SAMU-SMUR,OUI,N,O
+96,M,5,3ème cycle,Veuve,camping,ingénieur,BMW,2005,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,?,N,N
+49,M,2,Primaire,Célibataire,lecture,technicien,BMW,2019,12,1,2,3,Vol,?,Bris,Autre,?,N,O
+51,M,7,Primaire,Veuve,parachutisme,artisant,Peugeot,2017,19,1,0,1,Collision multiple,Collision coté,Dommage majeur,Pompier,?,O,N
+99,M,3,Professionel,Veuf,kayak,contremaître,BMW,2020,6,1,2,0,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+101,M,1,Primaire,Veuf,lecture,agriculteur,Audi,2016,13,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+95,M,6,Secondaire,Marié,marche,artisant,Nissan,2009,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+97,M,4,Aucun,Marié,jeu-échecs,ouvrier,Mercedes,2021,18,3,2,0,Stationnement,Collision arrière,Dommage mineur,Autre,NON,N,N
+20,F,1,Primaire,Veuf,lecture,professeur,Mercedes,2016,14,3,1,1,Collision multiple,Collision coté,Perte totale,Autre,NON,N,N
+21,M,6,Secondaire,Marié,marche,chauffeur,Volkswagen,2009,21,1,2,3,Vol,Collision frontale,Dommage mineur,Pompier,NON,O,N
+111,F,4,Professionel,Divorcé,basketball,sans-emploi,Toyota,2021,11,3,1,2,Collision isolée,?,Dommage majeur,Pompier,NON,N,N
+17,M,9,Professionel,Veuf,lecture,prof-médicale,Toyota,2019,18,1,2,0,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+42,M,6,Secondaire,Marié,marche,cadre,Suburu,2005,15,3,2,1,Collision multiple,Collision coté,Dommage majeur,SAMU-SMUR,NON,O,N
+36,F,3,Professionel,Divorcé,basketball,prof-médicale,Fiat,2021,5,3,1,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,NON,O,O
+61,F,9,Secondaire,Concubinage,exercise,prof-médicale,Fiat,2016,2,3,1,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,OUI,N,N
+56,F,6,Secondaire,Concubinage,marche,ingénieur,Chevrolet,2005,17,2,1,3,Vol,Collision frontale,Bris,Pompier,OUI,O,N
+81,M,3,3ème cycle,Divorcé,basketball,employé,Chevrolet,2018,14,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
+82,F,8,3ème cycle,Concubinage,exercise,contremaître,Renault,2016,20,3,1,3,Vol,?,Bris,SAMU-SMUR,OUI,N,N
+77,M,5,Baccalauréat,Célibataire,saut-élastique,technicien,Peugeot,1999,11,2,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,OUI,O,N
+78,F,3,Baccalauréat,Divorcé,basketball,artisant,Peugeot,2021,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+31,M,8,Baccalauréat,Célibataire,jeux-vidéo,contremaître,Peugeot,2005,4,2,0,3,Vol,?,Bris,SAMU-SMUR,?,N,O
+33,M,5,Baccalauréat,Divorcé,saut-élastique,agriculteur,Nissan,2021,11,2,1,1,Collision multiple,Collision coté,Dommage majeur,Pompier,OUI,O,N
+27,M,2,3ème cycle,Veuve,danse,artisant,Accura,2018,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,N
+22,M,8,3ème cycle,Concubinage,exercise,ouvrier,Accura,2005,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Police,?,N,N
+47,M,5,Primaire,Célibataire,camping,professeur,Volkswagen,2021,13,1,2,3,Vol,Collision frontale,Bris,SAMU-SMUR,?,O,N
+48,M,2,3ème cycle,Veuve,danse,chauffeur,Honda,2018,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Aucun,?,O,N
+43,M,7,Aucun,Marié,jeux-vidéo,sans-emploi,Ford,2015,10,1,0,0,Stationnement,Collision arrière,Dommage mineur,Police,?,N,N
+44,M,5,Baccalauréat,Célibataire,jeu-échecs,prof-médicale,Ford,2020,16,2,0,3,Vol,?,Bris,Autre,?,O,N
+69,M,1,Primaire,Veuve,danse,cadre,Ford,2017,13,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+64,M,7,Aucun,Marié,jeux-vidéo,prof-médicale,Saab,2009,4,1,2,2,Collision isolée,?,Dommage majeur,Aucun,?,N,N
+89,M,4,Primaire,Veuf,kayak,cadre,Saab,2020,0,1,2,3,Vol,Collision frontale,Bris,Aucun,?,N,O
+18,M,1,Aucun,Marié,équitation,cadre,Saab,2015,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Aucun,NON,O,N
+108,M,7,Professionel,Célibataire,musique,employé,Saab,2021,18,1,2,1,Collision isolée,?,Bris,Police,NON,N,N
+38,F,4,Secondaire,Concubinage,jeux-plateau,cadre,Renault,2017,9,3,1,3,Vol,Collision frontale,Bris,Police,NON,O,N
+39,M,1,Secondaire,Marié,équitation,ingénieur,Renault,2015,15,1,2,2,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+64,M,6,Professionel,Veuf,musique,employé,Renault,2018,12,1,2,2,Vol,?,Bris,Aucun,NON,N,O
+89,M,3,Secondaire,Marié,jeux-plateau,artisant,Peugeot,2015,9,3,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+83,F,9,Professionel,Divorcé,golf,employé,Audi,1999,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Aucun,NON,O,N
+108,F,6,3ème cycle,Concubinage,cinéma,employé,Audi,2018,20,3,1,3,Vol,?,Bris,Aucun,OUI,N,O
+38,F,2,Baccalauréat,Divorcé,basketball,artisant,Audi,2005,17,3,1,3,Stationnement,Collision frontale,Dommage mineur,Police,OUI,O,O
+63,F,8,3ème cycle,Concubinage,exercise,commercant,Accura,2019,14,2,1,0,Stationnement,Collision arrière,Perte totale,Police,OUI,N,N
+57,M,6,Baccalauréat,Célibataire,jeu-échecs,artisant,Accura,2015,4,2,0,3,Vol,Collision frontale,Bris,Police,OUI,N,N
+82,M,2,3ème cycle,Veuve,danse,artisant,Accura,2021,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Police,?,O,N
+84,M,8,3ème cycle,Veuve,exercise,ouvrier,Volkswagen,2018,8,2,1,2,Collision isolée,?,Dommage majeur,Aucun,OUI,N,N
+78,M,5,Baccalauréat,Célibataire,jeu-échecs,sans-emploi,Honda,2015,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Aucun,?,N,N
+103,M,1,Primaire,Veuve,danse,chauffeur,Volkswagen,2018,9,2,0,0,Stationnement,Collision arrière,Dommage mineur,SAMU-SMUR,OUI,O,N
+63,M,8,Baccalauréat,Célibataire,jeux-vidéo,prof-médicale,Volkswagen,2005,6,1,0,1,Collision multiple,Collision arrière,Perte totale,SAMU-SMUR,NON,N,N
+58,M,4,Primaire,Veuve,camping,professeur,Ford,2022,13,1,0,3,Vol,Collision frontale,Bris,Police,?,O,N
+52,M,2,Aucun,Veuve,équitation,technicien,Ford,2018,3,1,2,2,Collision isolée,Collision coté,Dommage majeur,Police,NON,O,N
+54,M,7,Aucun,Célibataire,jeux-vidéo,sécurité,Saab,2005,10,1,0,0,Stationnement,Collision arrière,Perte totale,Aucun,?,N,O
+79,M,4,Primaire,Veuf,camping,technicien,Fiat,2021,7,1,2,1,Collision multiple,Collision coté,Perte totale,Aucun,?,O,N
+73,M,1,Secondaire,Marié,équitation,cadre,Saab,2018,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Aucun,NON,O,N
+75,M,6,Professionel,Veuf,musique,sécurité,Saab,2005,18,1,2,0,Collision multiple,Collision arrière,Perte totale,Police,NON,N,N
+28,M,3,Secondaire,Marié,jeux-plateau,technicien,Renault,2019,15,3,2,1,Collision multiple,Collision coté,Dommage majeur,Police,NON,O,N
+83,M,9,Professionel,Veuf,lecture,employé,Fiat,2022,2,3,2,0,Stationnement,Collision arrière,Perte totale,Pompier,OUI,N,N
+78,F,6,Secondaire,Concubinage,cinéma,ingénieur,Renault,2019,8,3,1,3,Vol,Collision frontale,Bris,Police,NON,O,N
+72,F,3,Baccalauréat,Marié,basketball,agriculteur,Renault,2009,5,3,1,0,Stationnement,Collision frontale,Dommage mineur,Police,NON,O,N
+97,F,9,3ème cycle,Concubinage,exercise,contremaître,Peugeot,2022,20,2,1,2,Collision isolée,?,Bris,SAMU-SMUR,OUI,N,N
+98,F,6,Secondaire,Concubinage,cinéma,agriculteur,Audi,2019,2,3,1,1,Collision multiple,Collision coté,Perte totale,Aucun,NON,N,N
+93,F,2,Baccalauréat,Divorcé,basketball,artisant,Audi,2016,17,2,1,3,Vol,Collision frontale,Dommage mineur,Police,OUI,O,N
+23,M,8,3ème cycle,Veuve,exercise,commercant,Accura,2022,14,2,1,0,Stationnement,Collision arrière,Dommage mineur,Police,OUI,N,N
+24,F,6,Secondaire,Concubinage,cinéma,ouvrier,Accura,2018,4,2,1,3,Vol,?,Bris,Police,OUI,N,O
+72,M,2,3ème cycle,Veuve,danse,sans-emploi,Accura,2022,7,2,0,2,Collision isolée,?,Dommage majeur,Police,OUI,O,N
+67,M,8,Aucun,Concubinage,exercise,prof-médicale,Accura,2019,22,2,0,0,Stationnement,Collision arrière,Perte totale,SAMU-SMUR,?,N,N
+69,M,5,Baccalauréat,Divorcé,camping,cadre,Volkswagen,2009,19,1,0,1,Collision multiple,Collision coté,Perte totale,SAMU-SMUR,?,O,N
+93,M,2,3ème cycle,Veuve,danse,professeur,Honda,2022,1,2,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+88,M,7,Aucun,Célibataire,jeux-vidéo,ouvrier,Ford,2019,16,1,0,2,Collision isolée,?,Bris,Police,?,N,N
+89,M,5,Baccalauréat,Célibataire,jeu-échecs,sécurité,Ford,2015,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,OUI,N,N
+19,M,2,Primaire,Veuve,danse,technicien,Ford,2021,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Police,?,O,N
+109,M,7,Aucun,Marié,jeux-vidéo,sécurité,Saab,2019,10,1,2,0,Stationnement,Collision arrière,Dommage mineur,Aucun,?,N,N
+103,M,5,Baccalauréat,Célibataire,jeu-échecs,employé,Saab,2015,0,1,2,3,Vol,?,Bris,Aucun,NON,N,O
+105,M,1,Primaire,Veuf,danse,ingénieur,Saab,2021,7,1,0,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+58,M,7,Professionel,Célibataire,musique,sécurité,Saab,2016,18,3,2,0,Stationnement,Collision arrière,Perte totale,Police,NON,N,N
+59,M,4,Primaire,Veuf,kayak,artisant,BMW,2005,0,1,2,3,Vol,Collision frontale,Bris,Autre,?,N,N
+54,M,9,Secondaire,Marié,équitation,ingénieur,BMW,2021,15,1,2,1,Collision multiple,Collision coté,Dommage majeur,Aucun,NON,O,N
+56,M,7,Aucun,Marié,marche,sans-emploi,Audi,2017,21,1,2,0,Stationnement,Collision arrière,Dommage mineur,Pompier,?,O,N
+80,M,4,Primaire,Veuf,kayak,sans-emploi,Audi,1999,2,1,2,1,Collision multiple,Collision arrière,Perte totale,Aucun,NON,N,N
+75,M,9,Secondaire,Marié,équitation,agriculteur,Mercedes,2021,9,3,2,3,Vol,Collision frontale,Dommage mineur,Autre,NON,O,N
+69,F,7,Professionel,Marié,marche,professeur,Mercedes,2017,23,3,1,2,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+71,M,3,Professionel,Veuf,kayak,ouvrier,Mercedes,1999,6,3,2,0,Stationnement,Collision arrière,Perte totale,Pompier,NON,N,N
+24,F,9,Baccalauréat,Divorcé,golf,agriculteur,Mercedes,2018,17,3,1,3,Stationnement,Collision frontale,Dommage mineur,Aucun,OUI,O,O
+79,F,6,3ème cycle,Concubinage,cinéma,ouvrier,Mercedes,2022,20,3,1,3,Vol,?,Bris,Aucun,OUI,N,O
+104,F,2,Baccalauréat,Divorcé,basketball,professeur,Accura,2017,17,3,1,3,Vol,Collision frontale,Dommage mineur,Aucun,OUI,O,N
+34,M,8,3ème cycle,Concubinage,exercise,prof-médicale,Volkswagen,2022,14,2,1,0,Stationnement,Collision arrière,Perte totale,Aucun,OUI,N,N
+28,M,5,Baccalauréat,Célibataire,jeu-échecs,ouvrier,Honda,2019,4,2,0,3,Vol,?,Bris,Aucun,OUI,N,O
+30,F,2,Baccalauréat,Divorcé,basketball,technicien,Ford,2016,19,1,1,1,Collision multiple,Collision coté,Dommage majeur,Police,?,O,N
+24,M,8,3ème cycle,Veuve,parachutisme,sécurité,Suburu,2005,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Autre,OUI,O,N
+49,M,5,Baccalauréat,Célibataire,jeu-échecs,sécurité,Suburu,2019,22,2,0,1,Collision multiple,Collision arrière,Perte totale,Autre,?,N,N
+44,M,2,Primaire,Veuf,danse,cadre,Saab,2016,13,1,0,3,Vol,Collision frontale,Bris,Aucun,?,O,N
+45,M,8,3ème cycle,Veuve,parachutisme,ingénieur,Chevrolet,2005,19,2,0,2,Collision isolée,Collision coté,Dommage majeur,Pompier,?,O,N
+40,M,4,Aucun,Célibataire,jeu-échecs,contremaître,BMW,2021,10,1,0,0,Stationnement,Collision arrière,Perte totale,Autre,?,N,N
+65,M,1,Primaire,Veuf,danse,ingénieur,BMW,2015,7,1,2,1,Collision multiple,Collision coté,Perte totale,Autre,?,O,N
+66,M,8,Primaire,Veuve,parachutisme,agriculteur,BMW,1999,21,1,0,0,Stationnement,Collision frontale,Dommage mineur,Aucun,?,O,N
+61,M,4,Aucun,Marié,jeu-échecs,commercant,Nissan,2021,4,1,2,2,Collision isolée,?,Dommage majeur,Pompier,?,N,N
+86,M,1,Primaire,Veuf,lecture,agriculteur,Nissan,2015,0,1,2,3,Vol,Collision frontale,Bris,Pompier,?,O,N
+80,M,7,Secondaire,Veuve,marche,artisant,Nissan,2021,21,1,2,0,Stationnement,Collision frontale,Dommage mineur,Pompier,?,O,O
+64,F,4,Secondaire,Concubinage,chasse,artisant,Audi,2005,8,3,1,3,Vol,Collision frontale,Bris,Aucun,NON,O,N
+65,M,9,Secondaire,Marié,équitation,chauffeur,Nissan,2022,15,1,2,1,Collision isolée,Collision coté,Dommage majeur,Autre,NON,O,N
+90,M,6,Professionel,Veuf,musique,ouvrier,Accura,2017,12,3,2,2,Collision isolée,?,Bris,Autre,NON,N,N
+84,F,3,Secondaire,Concubinage,chasse,sans-emploi,Mercedes,2005,2,3,1,1,Collision multiple,Collision arrière,Perte totale,Autre,NON,N,N
+86,M,9,Secondaire,Marié,équitation,cadre,Mercedes,2021,17,2,2,3,Vol,Collision frontale,Dommage mineur,Aucun,NON,O,N
+80,F,6,Professionel,Divorcé,saut-élastique,prof-médicale,Honda,2016,14,2,1,0,Collision isolée,Collision arrière,Dommage mineur,Aucun,OUI,N,N
+105,F,3,Secondaire,Concubinage,chasse,prof-médicale,Toyota,2005,20,3,1,3,Vol,?,Bris,Pompier,OUI,N,N
+100,M,9,Baccalauréat,Marié,golf,professeur,Suburu,2021,11,2,1,1,Collision multiple,Collision coté,Dommage majeur,Autre,OUI,O,N
+101,F,6,Professionel,Divorcé,saut-élastique,technicien,Fiat,2018,17,3,1,0,Stationnement,Collision frontale,Dommage mineur,SAMU-SMUR,OUI,O,O
+55,M,2,Baccalauréat,Célibataire,cross-fit,cadre,Suburu,2021,4,2,0,3,Vol,Collision frontale,Bris,Autre,OUI,N,O
+56,F,8,Baccalauréat,Divorcé,golf,ingénieur,Suburu,2018,11,3,1,1,Collision multiple,Collision coté,Dommage majeur,Pompier,OUI,O,N
+51,M,5,3ème cycle,Veuve,camping,contremaître,Chevrolet,2015,1,2,0,0,Stationnement,Collision arrière,Dommage mineur,Pompier,OUI,N,N
